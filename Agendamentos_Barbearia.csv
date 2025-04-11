@@ -1,0 +1,1831 @@
+Profissional,Horário,Data,Cliente,Produto,Valor (R$)
+Marcos Ferreira,19:00,2025-04-11,Carlos Augusto,Sou Assinante,15.75
+Marcos Ferreira,18:30,2025-04-11,Marcelo Ferreira,Corte Militar,15.75
+Marcos Ferreira,15:00,2025-04-11,Vini Bellem,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-04-11,Paulotadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,10:30,2025-04-11,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,09:30,2025-04-11,Lucas Correia,Sou Assinante,15.75
+Marcos Ferreira,19:00,2025-04-10,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-04-09,Henrique Guimaraes,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-04-09,Hudson Moura,Corte + Barba,40.0
+Marcos Ferreira,09:30,2025-04-09,Ricardo Aguiar,Sou Assinante,15.75
+Marcos Ferreira,16:30,2025-04-08,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-04-08,Luca Costanzi,Corte,22.0
+Marcos Ferreira,10:00,2025-04-08,Miguel Naves Santos,Corte,22.0
+Marcos Ferreira,,2025-04-05,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,17:00,2025-04-05,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,16:30,2025-04-05,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,16:00,2025-04-05,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,15:00,2025-04-05,Wilson M Junior,Corte,22.0
+Marcos Ferreira,13:30,2025-04-05,Níckolas Martins,Corte,22.0
+Marcos Ferreira,10:30,2025-04-05,Bruno Vieira,Corte,22.0
+Marcos Ferreira,10:00,2025-04-05,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-04-05,João Carlos Pimenta,Sou Assinante,15.75
+Marcos Ferreira,18:30,2025-04-04,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,09:30,2025-04-04,Carlile Silva,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-04-03,Ricardo Aguiar,Sou Assinante,15.75
+Marcos Ferreira,14:00,2025-04-03,Victor Mendonca,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-04-03,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:00,2025-04-03,Paulotadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-04-03,Raphael Souza,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-04-02,Henrique Guimaraes,Sou Assinante,15.75
+Marcos Ferreira,11:00,2025-04-02,Alberto S Leitão,Corte + Barba,40.0
+Marcos Ferreira,09:30,2025-04-02,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2025-04-01,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,11:30,2025-04-01,Adriano Morais,Corte Militar,15.75
+Marcos Ferreira,09:30,2025-04-01,Rafael Ribeiro,Corte,22.0
+Marcos Ferreira,10:00,2025-03-31,David Amós,Corte,22.0
+Marcos Ferreira,17:30,2025-03-29,Nayara Neiva,Corte,22.0
+Marcos Ferreira,15:00,2025-03-29,Lucas Correia,Corte,22.0
+Marcos Ferreira,14:30,2025-03-29,Gabriel Rodrigues,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-03-29,Mauricio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,13:30,2025-03-29,Sued Henrique,Sou Assinante,15.75
+Marcos Ferreira,11:00,2025-03-29,Gustavo Caballero,Corte,22.0
+Marcos Ferreira,10:30,2025-03-29,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-03-29,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-29,Aloizio Filgueiras,Corte Militar,15.75
+Marcos Ferreira,16:00,2025-03-28,Carlos Augusto,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-03-28,Paulo Tadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-28,João Victor Monteiro,Corte + Barba,40.0
+Marcos Ferreira,16:00,2025-03-27,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-03-27,Ricardo Aguiar,Sou Assinante,15.75
+Marcos Ferreira,10:30,2025-03-27,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-03-26,Henrique Guimaraes,Sou Assinante,15.75
+Marcos Ferreira,11:00,2025-03-26,Aglenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,09:30,2025-03-26,Alberto Leitão,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:30,2025-03-25,Cláudia Silva,Corte Militar,15.75
+Marcos Ferreira,16:30,2025-03-22,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,14:30,2025-03-22,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,14:00,2025-03-22,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-03-22,Fernando Pasturino,Corte Militar,15.75
+Marcos Ferreira,11:00,2025-03-22,Carlos Mair P Nascimento,Corte Militar,15.75
+Marcos Ferreira,10:30,2025-03-22,Carlos Mair P Nascimento,Corte Militar,15.75
+Marcos Ferreira,10:00,2025-03-22,Eduardo Dutra,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-22,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,17:00,2025-03-21,João Carlos Pimenta,Sou Assinante,15.75
+Marcos Ferreira,15:30,2025-03-21,Marcus Mitre,Corte,22.0
+Marcos Ferreira,15:00,2025-03-21,Victor Mendonça,Sou Assinante,15.75
+Marcos Ferreira,14:30,2025-03-21,Joao Paulo De Menezes,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-03-21,Alberto S Leitão,"Barba , Corte Militar",37.75
+Marcos Ferreira,13:30,2025-03-21,Ricardo Aguiar,Sou Assinante,15.75
+Marcos Ferreira,12:24,2025-03-21,Cleomar,Corte Militar,15.75
+Marcos Ferreira,11:30,2025-03-21,Paulo Tadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,18:30,2025-03-20,Marcelo Ferreira Pedro,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-03-20,Gustavo Pedrozo,Corte,22.0
+Marcos Ferreira,15:30,2025-03-20,Luigi Edtt,Corte,22.0
+Marcos Ferreira,19:00,2025-03-19,Aurélio Barcelos,Corte,22.0
+Marcos Ferreira,18:30,2025-03-19,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-03-19,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,17:00,2025-03-19,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-03-18,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,09:36,2025-03-18,Cliente Avuso,Corte,22.0
+Marcos Ferreira,09:30,2025-03-18,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,19:30,2025-03-17,Luan Lopes,Corte,22.0
+Marcos Ferreira,19:00,2025-03-17,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-03-17,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,10:30,2025-03-17,José Ricardo Oriá Fernandes,Sou Assinante,15.75
+Marcos Ferreira,16:30,2025-03-15,João Victor Monteiro,Corte + Barba,40.0
+Marcos Ferreira,15:30,2025-03-15,Daniel Castro Castro,Corte + Barba,40.0
+Marcos Ferreira,15:00,2025-03-15,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,14:30,2025-03-15,Bruno Grilo,Corte + Barba,40.0
+Marcos Ferreira,14:00,2025-03-15,Sued Henrique,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-03-15,Daniel Nascimento,Corte,22.0
+Marcos Ferreira,11:00,2025-03-15,Sued Henrique,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-03-15,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-15,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-03-14,Paulo Tadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,19:00,2025-03-13,Gabriel Rodrigues,Corte Militar,15.75
+Marcos Ferreira,16:30,2025-03-13,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,15:00,2025-03-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2025-03-12,Victor Ono,Corte,22.0
+Marcos Ferreira,18:00,2025-03-11,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,16:30,2025-03-11,Luca Costanzi,Corte,22.0
+Marcos Ferreira,17:00,2025-03-08,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,15:30,2025-03-08,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,14:30,2025-03-08,Massaaki Yamamoto,Corte,22.0
+Marcos Ferreira,11:30,2025-03-08,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:30,2025-03-08,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-03-08,Joao Pimenta,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-08,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,18:00,2025-03-07,Douglas Marques,Corte,22.0
+Marcos Ferreira,17:30,2025-03-07,Lucas Correia,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-03-07,Paulo Tadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,11:00,2025-03-07,Raphael Augusto,Corte + Barba,40.0
+Marcos Ferreira,10:30,2025-03-07,Carlos Augusto,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-03-07,Victor Mendonça,Sou Assinante,15.75
+Marcos Ferreira,09:30,2025-03-07,Paulo Gonçalves Garcia,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-03-06,Ricardo Aguiar,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:30,2025-03-06,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,10:00,2025-03-06,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,19:30,2025-03-05,Moisés Melo,Corte Militar,15.75
+Marcos Ferreira,18:30,2025-03-05,Moisés Melo,Corte Militar,15.75
+Marcos Ferreira,17:25,2025-03-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:25,2025-03-05,Mulher Ponta,Corte,22.0
+Marcos Ferreira,17:25,2025-03-05,Criança,Corte Militar,15.75
+Marcos Ferreira,15:42,2025-03-05,Miserável,"Corte , Co",
+Marcos Ferreira,13:29,2025-03-05,Filho,Corte,22.0
+Marcos Ferreira,13:29,2025-03-05,Pai,Corte + Barba,40.0
+Marcos Ferreira,11:30,2025-03-05,Adriano Morais,Corte Militar,15.75
+Marcos Ferreira,11:15,2025-03-05,Cleiton,Corte Militar,15.75
+Marcos Ferreira,11:00,2025-03-05,Fernando Pasturino,Corte Militar,15.75
+Marcos Ferreira,10:40,2025-03-05,Dantas,Corte,22.0
+Marcos Ferreira,10:30,2025-03-05,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,10:00,2025-03-05,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,09:30,2025-03-05,Mauricio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,15:00,2025-03-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2025-03-01,Fleury Junior,Sou Assinante,15.75
+Marcos Ferreira,12:23,2025-03-01,Pai Criança,Corte Militar,15.75
+Marcos Ferreira,12:14,2025-03-01,Fernando,Corte Militar,15.75
+Marcos Ferreira,10:30,2025-03-01,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,10:00,2025-03-01,Roberta Nunes,Corte Militar,15.75
+Marcos Ferreira,09:30,2025-03-01,Roberta Nunes,Corte Militar,15.75
+Marcos Ferreira,16:30,2025-02-28,Carlos Augusto,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-02-28,Moisés Veiga,Sou Assinante,15.75
+Marcos Ferreira,11:30,2025-02-28,Paulo Tadeu Silva,Sou Assinante,15.75
+Marcos Ferreira,10:00,2025-02-28,Mateus Chagas,Corte,22.0
+Marcos Ferreira,09:30,2025-02-28,Lucas Correia,Sou Assinante,15.75
+Marcos Ferreira,09:00,2025-02-28,Paulo Gonçalves Garcia,Sou Assinante,15.75
+Marcos Ferreira,19:00,2025-02-27,"João Monteiro                 Realinhamento Capilar ,",Corte +,
+Marcos Ferreira,,,Cliente Desconhecido,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:00,2025-02-27,Hudson Moura,Corte + Barba,40.0
+Marcos Ferreira,16:00,2025-02-26,Vini Belem,Sou Assinante,15.75
+Marcos Ferreira,15:47,2025-02-26,Sergio,Corte,22.0
+Marcos Ferreira,10:00,2025-02-26,Miguel Naves Santos,Corte,22.0
+Marcos Ferreira,15:30,2025-02-25,Raphael Augusto,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:12,2025-02-25,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:12,2025-02-25,Misael,Corte Militar,15.75
+Marcos Ferreira,11:30,2025-02-25,Cliente Avuso,Corte,22.0
+Marcos Ferreira,16:30,2025-02-22,Davi Brito Brito,Corte Militar,15.75
+Marcos Ferreira,16:00,2025-02-22,Carlos Mair Mair,Corte Militar,15.75
+Marcos Ferreira,15:30,2025-02-22,Eduardo Dutra,Corte + Barba,40.0
+Marcos Ferreira,14:30,2025-02-22,Bruno Grillo,Corte + Barba,40.0
+Marcos Ferreira,14:00,2025-02-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:14,2025-02-22,Branco,Corte Militar,15.75
+Marcos Ferreira,12:13,2025-02-22,Com Criança,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:30,2025-02-22,Joao Paulo Menezes,Corte Militar,15.75
+Marcos Ferreira,19:30,2025-02-21,Igor Guiginski,Corte,22.0
+Marcos Ferreira,19:00,2025-02-21,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,18:30,2025-02-21,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,17:00,2025-02-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2025-02-21,Gustavo Caballero,Corte,22.0
+Marcos Ferreira,16:00,2025-02-21,Fernando Pasturino,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-02-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2025-02-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:17,2025-02-21,Social,Corte,22.0
+Marcos Ferreira,11:17,2025-02-21,00,Corte Militar,15.75
+Marcos Ferreira,10:30,2025-02-21,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,09:30,2025-02-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2025-02-20,João Carlos Pimenta,Corte Militar,15.75
+Marcos Ferreira,18:37,2025-02-20,Barba,Barba                      Co,
+Marcos Ferreira,18:00,2025-02-20,Victor Hugo Aguiar Alves,Corte,22.0
+Marcos Ferreira,17:00,2025-02-20,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,12:13,2025-02-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2025-02-20,Saulo Revoredo,Corte Militar,15.75
+Marcos Ferreira,19:52,2025-02-19,Nariz,Corte,22.0
+Marcos Ferreira,19:52,2025-02-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:11,2025-02-19,Militar Ceará,Corte Militar,15.75
+Marcos Ferreira,16:30,2025-02-19,Marcus Mitre,Corte,22.0
+Marcos Ferreira,16:03,2025-02-19,Eduardo Silveira,"Corte   , Co",
+Marcos Ferreira,13:30,2025-02-19,Luca Costanzi,Corte,22.0
+Marcos Ferreira,11:50,2025-02-19,Veii,Corte,22.0
+Marcos Ferreira,11:50,2025-02-19,Doido,Corte,22.0
+Marcos Ferreira,11:00,2025-02-19,Pedro De Castro,Corte,22.0
+Marcos Ferreira,10:30,2025-02-19,Claudiomir Lemos,Corte,22.0
+Marcos Ferreira,10:00,2025-02-19,Paulo Ricardo,Corte,22.0
+Marcos Ferreira,09:30,2025-02-19,Kal Lemos,Corte,22.0
+Marcos Ferreira,09:00,2025-02-19,Renato Bernardelli,Corte,22.0
+Marcos Ferreira,20:00,2025-02-18,Cate,Corte,22.0
+Marcos Ferreira,19:30,2025-02-18,Gabriel Rodrigues,Corte Militar,15.75
+Marcos Ferreira,19:00,2025-02-18,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,18:07,2025-02-18,Senhor Ranger,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:00,2025-02-18,Jaqueline Almeida,Corte,22.0
+Marcos Ferreira,17:30,2025-02-18,Mateus Ishiruji,Corte Militar,15.75
+Marcos Ferreira,16:00,2025-02-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:54,2025-02-18,Senhor,Corte Militar,15.75
+Marcos Ferreira,14:54,2025-02-18,Lucas Multicoisas,Corte Militar,15.75
+Marcos Ferreira,19:04,2025-02-17,Cliente Criança,Corte Militar,15.75
+Marcos Ferreira,11:30,2025-02-17,Pedro De Castro,Corte,22.0
+Marcos Ferreira,15:30,2025-02-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2025-02-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:32,2025-02-14,Clauco,Corte + Barba,40.0
+Marcos Ferreira,09:30,2025-02-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:53,2025-02-13,Mãe,"Corte   , Ba",
+Marcos Ferreira,16:00,2025-02-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2025-02-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2025-02-13,Raphael Augusto,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:30,2025-02-13,Hudson Moura,Corte + Barba,40.0
+Marcos Ferreira,19:30,2025-02-12,Joana Bendito,Corte,22.0
+Marcos Ferreira,19:00,2025-02-12,Isabel Bendito,Corte,22.0
+Marcos Ferreira,11:02,2025-02-12,Corte Militar Criança,Corte Militar,15.75
+Marcos Ferreira,11:02,2025-02-12,Irmão Texa,Corte Militar,15.75
+Marcos Ferreira,12:14,2025-02-08,Planos,"Corte , Ba",
+Marcos Ferreira,11:24,2025-02-08,Fleury Plano,"Corte   , Ba",
+Marcos Ferreira,11:00,2025-02-08,Leonardo Nunes,Corte + Barba,40.0
+Marcos Ferreira,10:00,2025-02-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2025-02-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2025-02-07,João Monteiro,Corte + Barba,40.0
+Marcos Ferreira,18:00,2025-02-07,Vinicius Belém,Corte + Barba,40.0
+Marcos Ferreira,17:30,2025-02-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2025-02-07,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,14:00,2025-02-07,Daniel,Sou Assinante,15.75
+Marcos Ferreira,13:30,2025-02-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:33,2025-02-07,Plano Paulo,"Corte , Ba",
+Marcos Ferreira,11:00,2025-02-07,Pedro Malaguti,Corte + Barba,40.0
+Marcos Ferreira,09:30,2025-02-07,Plano Paulo,"Corte , Ba",
+Marcos Ferreira,19:00,2025-02-06,Romullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,18:30,2025-02-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:06,2025-02-06,Lucas Farmácia,Corte Militar,15.75
+Marcos Ferreira,18:00,2025-02-06,Fernando Brandão Brandão,Corte + Barba,40.0
+Marcos Ferreira,17:00,2025-02-06,Maria Lurdes,Corte,22.0
+Marcos Ferreira,16:30,2025-02-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:10,2025-02-06,Theo,"Barba , Corte Militar",37.75
+Marcos Ferreira,09:30,2025-02-06,Miguel Naves Santos,Corte,22.0
+Marcos Ferreira,19:53,2025-02-05,Criança,Corte Militar,15.75
+Marcos Ferreira,19:18,2025-02-05,Militar Plano,"Corte   , Ba",
+Marcos Ferreira,19:00,2025-02-05,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,18:57,2025-02-05,Thiago Militar,Corte Militar,15.75
+Marcos Ferreira,17:48,2025-02-05,Ana,Corte,22.0
+Marcos Ferreira,16:30,2025-02-05,Miguel Guimarães,Corte,22.0
+Marcos Ferreira,16:22,2025-02-05,Coroa Militar,Corte Militar,15.75
+Marcos Ferreira,16:03,2025-02-05,Pai Militar,Corte Militar,15.75
+Marcos Ferreira,11:04,2025-02-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:34,2025-02-05,Daniel Militar Filho,Corte Militar,15.75
+Marcos Ferreira,10:33,2025-02-05,Filho Fabricio,Corte Militar,15.75
+Marcos Ferreira,18:08,2025-02-04,Senhor Branco,"Barba , Corte Militar",37.75
+Marcos Ferreira,16:58,2025-02-04,Maurício,Corte Militar,15.75
+Marcos Ferreira,16:00,2025-02-04,Nícolas,"Barba      ,",
+Marcos Ferreira,14:36,2025-02-04,Leo,"Corte     , Ba",
+Marcos Ferreira,13:30,2025-02-04,Rafael Ribeiro,Corte,22.0
+Marcos Ferreira,12:11,2025-02-04,Plano Ricardo,"Barba    , Ba",
+Marcos Ferreira,12:11,2025-02-04,Shampoos L Ricardo,"Barba      , Ba",
+Marcos Ferreira,11:30,2025-02-04,Irmão,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-02-03,Gabriel Costa Chaves,Corte Militar,15.75
+Marcos Ferreira,10:00,2025-02-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2025-02-01,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,17:00,2025-01-31,Paulotadeu Silva,Corte + Barba,40.0
+Marcos Ferreira,16:30,2025-01-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2025-01-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2025-01-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2025-01-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:46,2025-01-31,Senhor,Corte Militar,15.75
+Marcos Ferreira,11:34,2025-01-31,Guilherme,Corte,22.0
+Marcos Ferreira,11:18,2025-01-31,Bruno Vieira,Corte,22.0
+Marcos Ferreira,11:00,2025-01-31,Bruno Vieira,Corte,22.0
+Marcos Ferreira,10:00,2025-01-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:49,2025-01-30,Doído,"Barba , Corte Militar",37.75
+Marcos Ferreira,20:48,2025-01-30,Senhor Pintou,"Barba      , Co",
+Marcos Ferreira,17:00,2025-01-30,Roberta Nunes,Corte Militar,15.75
+Marcos Ferreira,13:00,2025-01-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2025-01-30,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,10:30,2025-01-30,Adriano Morais,Corte Militar,15.75
+Marcos Ferreira,10:00,2025-01-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2025-01-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:56,2025-01-29,Jp,"Barba      , Co",
+Marcos Ferreira,17:30,2025-01-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:48,2025-01-29,Fernando,"Barba      , Co",
+Marcos Ferreira,14:00,2025-01-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:39,2025-01-29,Melhor Cabeleireiro,Corte Militar,15.75
+Marcos Ferreira,18:50,2025-01-28,Carlos Eduardo,Corte,22.0
+Marcos Ferreira,18:30,2025-01-28,Fernando Brandão,Corte + Barba,40.0
+Marcos Ferreira,17:30,2025-01-28,Matheus Dobbin,Corte,22.0
+Marcos Ferreira,13:30,2025-01-28,Edivaldo,"Barba , Corte Militar",37.75
+Marcos Ferreira,09:38,2025-01-28,Rafael,Corte Militar,15.75
+Marcos Ferreira,19:00,2025-01-27,"Luan Lopes                 Realinhamento Capilar ,",Corte,22.0
+Marcos Ferreira,18:30,2025-01-27,Rafael Oliveira,Corte,22.0
+Marcos Ferreira,17:30,2025-01-27,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,17:13,2025-01-27,Criança,Corte Militar,15.75
+Marcos Ferreira,17:11,2025-01-27,Bolsonaro,Corte,22.0
+Marcos Ferreira,17:00,2025-01-27,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,16:00,2025-01-27,Luca Costanzi,Corte,22.0
+Marcos Ferreira,14:00,2025-01-27,Magdiel Junior,Corte Militar,15.75
+Marcos Ferreira,13:30,2025-01-27,Hudson,"Barba , Corte Militar",37.75
+Marcos Ferreira,13:30,2025-01-27,Marcus Senhor Pendências,Corte,22.0
+Marcos Ferreira,13:29,2025-01-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,,,Cliente Desconhecido,"Barba, Tonali",
+Marcos Ferreira,11:00,2025-01-27,Joao Paulo Menezes,Corte Militar,15.75
+Marcos Ferreira,10:30,2025-01-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2025-01-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2025-01-27,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-01-26,Luca Costanzi,Corte,22.0
+Marcos Ferreira,10:00,2025-01-25,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-01-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2025-01-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2025-01-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:41,2025-01-14,Social,Corte,22.0
+Marcos Ferreira,16:00,2025-01-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2025-01-14,Debutado,Corte + Barba,40.0
+Marcos Ferreira,14:48,2025-01-14,Lucas,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-01-14,Gabriel Chaves,Corte Militar,15.75
+Marcos Ferreira,10:18,2025-01-14,Irmão,Corte Militar,15.75
+Marcos Ferreira,17:00,2025-01-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:14,2025-01-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,,,Cliente Desconhecido,Barba,
+Marcos Ferreira,15:45,2025-01-13,Hudson,"Corte ,",
+Marcos Ferreira,15:30,2025-01-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2025-01-13,Saulo Revoredo,Corte Militar,15.75
+Marcos Ferreira,14:00,2025-01-13,Miguel Naves Santos,Corte,22.0
+Marcos Ferreira,19:40,2025-01-10,Matheus,Corte + Barba,40.0
+Marcos Ferreira,16:00,2025-01-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2025-01-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2025-01-10,Leonardo Nunes,Corte + Barba,40.0
+Marcos Ferreira,18:30,2025-01-09,Romullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,12:47,2025-01-09,Sergio,Corte,22.0
+Marcos Ferreira,12:45,2025-01-09,Cliente Padre,"Corte , Ba",
+Marcos Ferreira,17:27,2025-01-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:16,2025-01-08,Velho,"Corte ,",
+Marcos Ferreira,16:30,2025-01-08,John Ribeiro,Corte,22.0
+Marcos Ferreira,15:30,2025-01-08,Luis Rodrigues,Corte,22.0
+Marcos Ferreira,14:30,2025-01-08,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,11:20,2025-01-08,Militar E,Corte Militar,15.75
+Marcos Ferreira,10:54,2025-01-08,Cliente Venuzelano,Corte + Barba,40.0
+Marcos Ferreira,10:54,2025-01-08,Senhor,Corte Militar,15.75
+Marcos Ferreira,10:54,2025-01-08,Cliente Raspado,Corte Militar,15.75
+Marcos Ferreira,18:14,2025-01-07,Edimilson,Corte Militar,15.75
+Marcos Ferreira,13:30,2025-01-07,Cliente,Corte + Barba,40.0
+Marcos Ferreira,13:00,2025-01-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2025-01-07,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,10:00,2025-01-07,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,09:38,2025-01-07,Beto,Corte Militar,15.75
+Marcos Ferreira,18:57,2025-01-06,Kju,Corte + Barba,40.0
+Marcos Ferreira,17:37,2025-01-06,Senhor,Corte,22.0
+Marcos Ferreira,14:30,2025-01-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:05,2025-01-06,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,14:05,2025-01-06,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,11:05,2025-01-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:04,2025-01-06,Marheus,Corte Militar,15.75
+Marcos Ferreira,11:04,2025-01-06,Cliente/ Segurança,Corte Militar,15.75
+Marcos Ferreira,10:36,2025-01-06,Cliente,Corte Militar,15.75
+Marcos Ferreira,18:55,2025-01-04,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,18:55,2025-01-04,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,17:00,2025-01-04,Cliente Desconhecido,Barba,
+Marcos Ferreira,16:59,2025-01-04,Cliente,Corte Militar,15.75
+Marcos Ferreira,16:59,2025-01-04,Cliente,Corte Militar,15.75
+Marcos Ferreira,14:30,2025-01-04,Luca Costanzi,Corte,22.0
+Marcos Ferreira,14:00,2025-01-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2025-01-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2025-01-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2025-01-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2025-01-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2025-01-03,Adriano Morais,Corte Militar,15.75
+Marcos Ferreira,11:30,2025-01-03,Paulotadeu Silva,Corte + Barba,40.0
+Marcos Ferreira,11:00,2025-01-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:38,2025-01-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:37,2025-01-03,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:37,2025-01-03,Cliente Desconhecido,"Barba, Tonalização",
+Marcos Ferreira,10:30,2025-01-03,Alberto S Leitão,Corte + Barba,40.0
+Marcos Ferreira,18:00,2025-01-02,Adriano Gomes,Corte,22.0
+Marcos Ferreira,16:47,2024-12-31,Loiro,Corte,22.0
+Marcos Ferreira,16:46,2024-12-31,Mateus,"Corte , Ba",
+Marcos Ferreira,15:30,2024-12-31,Paulo Boro,Sou Assinante,15.75
+Marcos Ferreira,15:00,2024-12-31,João,Corte + Barba,40.0
+Marcos Ferreira,14:30,2024-12-31,Moisés,Sou Assinante,15.75
+Marcos Ferreira,14:00,2024-12-31,Franke,Corte,22.0
+Marcos Ferreira,13:30,2024-12-31,Fabio Santana,Corte,22.0
+Marcos Ferreira,10:00,2024-12-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:36,2024-12-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:57,2024-12-30,Felepi,Corte Militar,15.75
+Marcos Ferreira,18:56,2024-12-30,Anderson,Corte + Barba,40.0
+Marcos Ferreira,18:56,2024-12-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:55,2024-12-30,Anderson,Corte + Barba,40.0
+Marcos Ferreira,18:55,2024-12-30,Lucas,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:00,2024-12-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-12-30,Raphael Augusto,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:00,2024-12-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-12-30,Aglenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-12-30,Jailson Matias De Oliveira,Corte,22.0
+Marcos Ferreira,14:30,2024-12-30,Roberta Nunes,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-12-30,Roberta Nunes,Corte Militar,15.75
+Marcos Ferreira,11:31,2024-12-30,Crianca Salao,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-12-30,Joao De Menezes,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-12-30,Aglenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-12-30,Fernando,Corte + Barba,40.0
+Marcos Ferreira,17:30,2024-12-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-12-28,Jaqueline Almeida,Corte,22.0
+Marcos Ferreira,15:00,2024-12-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-12-28,Marcus Mitre,Corte,22.0
+Marcos Ferreira,11:30,2024-12-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-12-28,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-12-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-12-27,Moisés Melo,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-12-27,Adriano Gomes,Corte,22.0
+Marcos Ferreira,15:30,2024-12-27,Pedro Castro,Corte,22.0
+Marcos Ferreira,14:00,2024-12-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-12-27,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,10:00,2024-12-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-12-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-12-24,Marcelo Santana,Corte + Barba,40.0
+Marcos Ferreira,13:30,2024-12-24,Carlos Henrique,Corte + Barba,40.0
+Marcos Ferreira,13:00,2024-12-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-12-24,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-12-24,David Amós,Corte,22.0
+Marcos Ferreira,09:30,2024-12-24,Carlos Henrique,Corte + Barba,40.0
+Marcos Ferreira,19:00,2024-12-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-12-23,Saulo Revoredo,Corte Militar,15.75
+Marcos Ferreira,18:00,2024-12-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-12-23,Gabriel Costa Chaves,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-12-23,Paulotadeu Silva,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-12-23,Agoenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-12-23,Heitor Rodrigues,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-12-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-12-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-12-21,Fernando,Corte + Barba,40.0
+Marcos Ferreira,09:00,2024-12-21,Eduardo,"Barba , Corte Militar",37.75
+Marcos Ferreira,19:21,2024-12-20,Cliente Avuso,Corte,22.0
+Marcos Ferreira,18:47,2024-12-20,Cliente Avuso Filho Militar,Corte Militar,15.75
+Marcos Ferreira,18:47,2024-12-20,Senhor 405,Corte,22.0
+Marcos Ferreira,18:46,2024-12-20,Cliente Avuso Engenheiro,Corte + Barba,40.0
+Marcos Ferreira,18:00,2024-12-20,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,17:00,2024-12-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-12-20,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,15:20,2024-12-20,Ricardo Plano,Corte + Barba,40.0
+Marcos Ferreira,15:20,2024-12-20,Ricardo Plano,Corte + Barba,40.0
+Marcos Ferreira,15:18,2024-12-20,Americano,"Barba     , Sob",
+Marcos Ferreira,15:00,2024-12-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-12-20,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-12-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-12-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,22:21,2024-12-19,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,22:21,2024-12-19,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,16:00,2024-12-19,Rafael Marco Filho,Corte,22.0
+Marcos Ferreira,15:30,2024-12-19,Jorge Henrique,Corte,22.0
+Marcos Ferreira,14:30,2024-12-19,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,14:00,2024-12-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-12-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-12-18,Heitor Criança,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-12-18,João Victor Monteiro,Corte + Barba,40.0
+Marcos Ferreira,15:00,2024-12-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:37,2024-12-14,Cliente Desconhecido,Barba,
+Marcos Ferreira,11:36,2024-12-14,Mateus Sassavi,Corte + Barba,40.0
+Marcos Ferreira,11:34,2024-12-14,Ricardo,Corte + Barba,40.0
+Marcos Ferreira,11:34,2024-12-14,Victor,Corte + Barba,40.0
+Marcos Ferreira,11:34,2024-12-14,Vitor,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-12-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-12-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-12-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-12-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-12-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-12-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-12-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:41,2024-12-13,Senhor,Corte,22.0
+Marcos Ferreira,11:00,2024-12-13,Luca Costanzi,Corte,22.0
+Marcos Ferreira,18:31,2024-12-12,Cliente Avuso,"Corte , Ba",
+Marcos Ferreira,18:00,2024-12-12,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,17:00,2024-12-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-12-12,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-12-12,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-12-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-12-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-12-11,Luan Lopes,Corte,22.0
+Marcos Ferreira,18:54,2024-12-11,Criança,Corte Militar,15.75
+Marcos Ferreira,18:54,2024-12-11,Criança Irmão,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-12-11,Aglenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-12-11,Aglenio Rodrigues,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-12-11,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-12-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-12-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-12-10,Carlos Henrique Diaz Diaz,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-12-09,Lucas Seabra,Corte,22.0
+Marcos Ferreira,17:00,2024-12-07,César,Corte + Barba,40.0
+Marcos Ferreira,16:00,2024-12-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-12-07,John Ribeiro,Corte,22.0
+Marcos Ferreira,11:30,2024-12-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-12-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-12-06,Miguel,Sou Assinante,15.75
+Marcos Ferreira,16:30,2024-12-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-12-06,Joao Paulo De Menezes,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-12-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-12-06,Gustavo Marins,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-12-06,Mateus Torres,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-12-06,Pedro Malaguti,Corte + Barba,40.0
+Marcos Ferreira,09:30,2024-12-06,Enzo Costanzi,Corte,22.0
+Marcos Ferreira,19:30,2024-12-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-12-05,Bruno Vieira,Corte,22.0
+Marcos Ferreira,16:30,2024-12-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-12-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-12-04,Fernando Pasturino,Corte Militar,15.75
+Marcos Ferreira,15:00,2024-12-03,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-12-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-12-02,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:00,2024-12-02,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-12-02,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-11-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-30,Fernando,Corte + Barba,40.0
+Marcos Ferreira,14:30,2024-11-30,Nicolas Minuzzi,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-11-30,Luca Costanzi,Corte,22.0
+Marcos Ferreira,11:30,2024-11-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-11-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-11-30,Paulo César Araujo,Corte,22.0
+Marcos Ferreira,17:30,2024-11-29,Heitor Modesto Rodrigues,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-11-29,Aglenio Alves Rodrigues,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-11-29,Marcos Heinrich,Corte,22.0
+Marcos Ferreira,13:30,2024-11-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-11-29,Níckolas Martins,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-11-29,Edson,Sou Assinante,15.75
+Marcos Ferreira,09:30,2024-11-29,Gustavo Caballero,Corte,22.0
+Marcos Ferreira,19:30,2024-11-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-11-28,João Victor Pereira Monteiro,Corte + Barba,40.0
+Marcos Ferreira,17:00,2024-11-28,Denis Henrique,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-11-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-28,Gustavo Caballero,Corte,22.0
+Marcos Ferreira,14:00,2024-11-27,Rodrigo Pires,Corte + Barba,40.0
+Marcos Ferreira,13:00,2024-11-26,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-11-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-11-25,Miguel Tibana,Corte,22.0
+Marcos Ferreira,13:30,2024-11-25,Gabriel Edtt,Corte,22.0
+Marcos Ferreira,10:30,2024-11-25,Rafael Ribeiro,Corte,22.0
+Marcos Ferreira,10:00,2024-11-25,Mateus Chagas,Corte,22.0
+Marcos Ferreira,09:30,2024-11-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-11-23,Magdiel Bernardino,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-11-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-11-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:00,2024-11-22,Édson,Sou Assinante,15.75
+Marcos Ferreira,11:00,2024-11-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-11-21,Romullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,17:30,2024-11-21,Denis Henrique,Corte + Barba,40.0
+Marcos Ferreira,17:00,2024-11-21,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-11-21,Carlos,Corte,22.0
+Marcos Ferreira,13:00,2024-11-21,Romullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,18:30,2024-11-19,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,18:00,2024-11-19,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,17:00,2024-11-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-11-19,Cleia Costa,Corte,22.0
+Marcos Ferreira,16:00,2024-11-19,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:30,2024-11-19,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-11-16,Gabriel Guiotti,Corte,22.0
+Marcos Ferreira,11:30,2024-11-16,Sued Henrique,Corte,22.0
+Marcos Ferreira,11:00,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-11-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-11-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-11-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-15,Nicolas Minuzzi,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-11-15,João Victor Monteiro,Corte + Barba,40.0
+Marcos Ferreira,19:00,2024-11-14,Lucas Pereira,"Corte , Sob",
+Marcos Ferreira,18:00,2024-11-14,Pedro Ulisses De Castro,Corte,22.0
+Marcos Ferreira,17:00,2024-11-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-11-14,Marlon Menezes,"Corte , Sob",
+Marcos Ferreira,10:30,2024-11-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-14,Joao Paulo De Menezes,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-11-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-11-11,Saulo Revoredo,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-11-09,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-11-09,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-11-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-11-09,Raphael Souza,Corte + Barba,40.0
+Marcos Ferreira,15:30,2024-11-08,Édson,Sou Assinante,15.75
+Marcos Ferreira,15:00,2024-11-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-11-08,Massaaki Yamamoto,Corte,22.0
+Marcos Ferreira,14:00,2024-11-08,Leo Pai,Sou Assinante,15.75
+Marcos Ferreira,13:00,2024-11-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-11-08,Fernando Araújo Da Silva,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-11-07,Marcelo Santana,Corte + Barba,40.0
+Marcos Ferreira,18:00,2024-11-07,Gustavo Pontes,Corte,22.0
+Marcos Ferreira,16:00,2024-11-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-11-07,Renato Rodrigues De Araujo,Corte,22.0
+Marcos Ferreira,09:30,2024-11-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-11-06,Rafael Ferreira,Corte,22.0
+Marcos Ferreira,17:30,2024-11-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-11-06,Fernando Pasturino,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-11-05,Denis Henrique,Corte + Barba,40.0
+Marcos Ferreira,10:00,2024-11-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-11-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-11-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-11-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-11-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-11-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-11-01,Édson,Sou Assinante,15.75
+Marcos Ferreira,19:30,2024-10-31,Andre Marques,Corte,22.0
+Marcos Ferreira,16:00,2024-10-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-10-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-10-29,Aglenio Alves Rodrigues,Corte,22.0
+Marcos Ferreira,16:30,2024-10-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-10-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-29,Paulo César Araujo,Corte,22.0
+Marcos Ferreira,11:30,2024-10-28,Aurélio Barcelos,Corte,22.0
+Marcos Ferreira,09:30,2024-10-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-10-26,Fabio Santana,Corte,22.0
+Marcos Ferreira,11:30,2024-10-26,Daniel,Sou Assinante,15.75
+Marcos Ferreira,11:00,2024-10-26,Fernando Araújo Aragão,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-10-26,Nicolas Minuzzi,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-10-26,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-26,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-10-25,Moisés Melo,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-10-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-10-25,Alberto S Leitão,Corte + Barba,40.0
+Marcos Ferreira,15:30,2024-10-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-10-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-10-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-10-25,Marcos Aurélio,Sou Assinante,15.75
+Marcos Ferreira,15:00,2024-10-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-10-24,Diego,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-10-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-10-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-10-23,Victor Hugo Aguiar Alves,Corte,22.0
+Marcos Ferreira,13:30,2024-10-23,Victor Hugo Aguiar Alves,Corte,22.0
+Marcos Ferreira,10:00,2024-10-23,Joao Paulo De Menezes,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-10-23,John Ribeiro,Corte,22.0
+Marcos Ferreira,13:30,2024-10-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-22,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-10-21,Nickolas Martins,Corte,22.0
+Marcos Ferreira,17:00,2024-10-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-10-21,Guilherme,"Corte , Sob",
+Marcos Ferreira,09:27,2024-10-21,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,14:30,2024-10-19,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,13:00,2024-10-19,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-10-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-10-18,Marlon Zoppa,"Corte , Sob",
+Marcos Ferreira,14:30,2024-10-18,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,13:30,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-10-17,Romullo Eduardo,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-10-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-10-16,Fabio Santos,Corte,22.0
+Marcos Ferreira,18:00,2024-10-15,Renato Farmácia,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-10-15,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,15:00,2024-10-15,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-10-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-10-14,Rodrigo Pires,Corte + Barba,40.0
+Marcos Ferreira,18:00,2024-10-14,Renato,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-10-14,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,15:00,2024-10-14,Jucelio Gomes,Corte,22.0
+Marcos Ferreira,10:00,2024-10-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-10-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-10-12,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,11:00,2024-10-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-10-11,Priscila Silva,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-10-11,Priscila Silva,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-10-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-10-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-10-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-10-11,Edson Matriarka,Sou Assinante,15.75
+Marcos Ferreira,09:00,2024-10-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-10-10,Luis Rodrigues,Corte,22.0
+Marcos Ferreira,18:00,2024-10-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-10-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-10-10,Fábio Marques,Corte,22.0
+Marcos Ferreira,11:00,2024-10-10,Fernando Araújo Da Silva,Corte,22.0
+Marcos Ferreira,10:30,2024-10-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-10-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-10-09,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,11:00,2024-10-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-10-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-10-07,Roberta-Lucas Seabra,Corte,22.0
+Marcos Ferreira,10:00,2024-10-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-10-07,Rafael,Corte + Barba,40.0
+Marcos Ferreira,13:00,2024-10-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-10-05,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-10-05,João Vitor Araujo,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-10-04,Fernando Araújo Aragão,Corte + Barba,40.0
+Marcos Ferreira,14:00,2024-10-04,Aurélio Barcelos,Corte,22.0
+Marcos Ferreira,13:00,2024-10-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-10-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-10-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-10-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-10-02,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-10-02,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-10-02,Daniel Freitas,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-10-01,Andre Souza,Corte,22.0
+Marcos Ferreira,18:00,2024-10-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-10-01,Pedro De Castro,Corte,22.0
+Marcos Ferreira,14:30,2024-10-01,Gabriel Edtt,Corte,22.0
+Marcos Ferreira,13:30,2024-10-01,Rômulo De Araújo,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-10-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-09-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-09-30,Rafael Ribeiro,Corte,22.0
+Marcos Ferreira,10:00,2024-09-30,Lucas Villela,"Corte , Sob",
+Marcos Ferreira,11:00,2024-09-28,Luis Edtt,Corte,22.0
+Marcos Ferreira,10:00,2024-09-28,Nicolas,Corte Militar,15.75
+Marcos Ferreira,19:30,2024-09-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-09-27,Hudson Moura,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:00,2024-09-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-09-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-09-27,Rodrigo Camilo,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-09-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-09-27,Bruno Carvalho,Corte Militar,15.75
+Marcos Ferreira,09:00,2024-09-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-09-26,Victor Ono,Corte,22.0
+Marcos Ferreira,17:00,2024-09-26,Marlon Zoppa,"Corte , Sob",
+Marcos Ferreira,16:00,2024-09-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-09-25,Edson Matriarka,Sou Assinante,15.75
+Marcos Ferreira,13:30,2024-09-24,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-09-23,Ricardo Aguiar,Corte + Barba,40.0
+Marcos Ferreira,10:00,2024-09-23,Jucelio Gomes,Corte,22.0
+Marcos Ferreira,09:00,2024-09-23,Marco Aurélio Helberth Souza,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-09-21,João Victor,Corte,22.0
+Marcos Ferreira,16:30,2024-09-21,Paulo Goncalves Garcia,Corte,22.0
+Marcos Ferreira,16:00,2024-09-21,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-09-21,Daniel Flores,Corte + Barba,40.0
+Marcos Ferreira,14:00,2024-09-21,Alexs Melo,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-09-21,Eduardo,Sou Assinante,15.75
+Marcos Ferreira,13:00,2024-09-21,Lucas Seabra,Corte,22.0
+Marcos Ferreira,11:00,2024-09-21,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,10:30,2024-09-21,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-09-21,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,11:00,2024-09-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-09-18,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-09-17,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,09:30,2024-09-17,John Ribeiro,Corte,22.0
+Marcos Ferreira,17:00,2024-09-14,Sued Henrique,Sou Assinante,15.75
+Marcos Ferreira,16:00,2024-09-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-09-14,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,10:30,2024-09-14,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:00,2024-09-14,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:30,2024-09-13,Massaaki Yamamoto,Corte,22.0
+Marcos Ferreira,11:30,2024-09-13,Alberto,Sou Assinante,15.75
+Marcos Ferreira,11:00,2024-09-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-09-13,Marco Aurélio Helberth Souza,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:00,2024-09-13,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-09-13,Edson Matriarka,Sou Assinante,15.75
+Marcos Ferreira,19:00,2024-09-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-09-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-09-12,Cliente Avuso,Corte,22.0
+Marcos Ferreira,14:00,2024-09-12,Mikeliho,Corte,22.0
+Marcos Ferreira,13:00,2024-09-12,Denis Henrique,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-09-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-09-11,Rodrigo Camilo,Corte,22.0
+Marcos Ferreira,18:00,2024-09-11,Wanderley Junior,Corte,22.0
+Marcos Ferreira,18:00,2024-09-10,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:00,2024-09-10,Gabriel Costa,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-09-10,Ricardo Aguiar,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:30,2024-09-10,Níckolas Martins,Corte,22.0
+Marcos Ferreira,11:00,2024-09-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-09-10,Nicolas Minuzzi,Corte Militar,15.75
+Marcos Ferreira,18:00,2024-09-09,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-09-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:30,2024-09-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-09-06,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,15:00,2024-09-06,Edson Matriarka,Sou Assinante,15.75
+Marcos Ferreira,13:00,2024-09-06,Rafael Pagode,Corte,22.0
+Marcos Ferreira,11:00,2024-09-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-09-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-09-06,Edson Matriarka,Sou Assinante,15.75
+Marcos Ferreira,18:00,2024-09-05,Davi Certas,Corte,22.0
+Marcos Ferreira,18:30,2024-09-04,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,18:00,2024-09-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-09-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-09-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-09-04,Rafael Quixabeira Zorzin Zorzin,Corte,22.0
+Marcos Ferreira,19:30,2024-09-03,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-09-03,Marcos Heinrich,Corte,22.0
+Marcos Ferreira,17:30,2024-08-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-08-31,Roberta-Lucas Seabra,Corte,22.0
+Marcos Ferreira,15:30,2024-08-31,Diogenes Samuel Lemos,Corte,22.0
+Marcos Ferreira,14:00,2024-08-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,11:00,2024-08-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-08-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-08-30,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,16:00,2024-08-30,Gabriel Aline,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-08-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-08-29,Denis Henrique,Corte,22.0
+Marcos Ferreira,17:00,2024-08-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-08-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-08-29,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:30,2024-08-29,Kallyd Henrique,Corte + Barba,40.0
+Marcos Ferreira,11:30,2024-08-29,Marcelo Santana,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-08-29,Ricardo Aguiar,Corte + Barba,40.0
+Marcos Ferreira,17:00,2024-08-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-08-26,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-08-26,Jucelio Gomes,Corte,22.0
+Marcos Ferreira,10:00,2024-08-26,Jucelio Gomes,Corte,22.0
+Marcos Ferreira,16:30,2024-08-24,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,16:00,2024-08-24,Maycon,Corte,22.0
+Marcos Ferreira,11:00,2024-08-24,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:30,2024-08-24,Pedro Zampieri,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-08-24,Pedro Zampieri,Corte Militar,15.75
+Marcos Ferreira,09:00,2024-08-24,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-08-23,Gustavo Pontes,Corte,22.0
+Marcos Ferreira,09:30,2024-08-23,Cliente Desconhecido,Corte,22.0
+Marcos Ferreira,16:30,2024-08-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-08-22,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-08-21,Wanderley Júnior,Corte,22.0
+Marcos Ferreira,17:30,2024-08-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-08-20,Fleury Junior,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-08-19,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,16:30,2024-08-17,Roberta - Lucas Seabra,Corte,22.0
+Marcos Ferreira,16:00,2024-08-17,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,13:00,2024-08-17,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-08-17,Luís Eugênio Silva,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-08-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-08-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-08-16,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-08-16,Vinícius,Sou Assinante,15.75
+Marcos Ferreira,18:00,2024-08-16,Marcelo Santana,Corte + Barba,40.0
+Marcos Ferreira,11:30,2024-08-16,Antonio Lemos,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-08-16,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:30,2024-08-16,Marco Aurélio Helberth Souza,"Barba , Corte Militar",37.75
+Marcos Ferreira,09:00,2024-08-16,Edson,Sou Assinante,15.75
+Marcos Ferreira,15:00,2024-08-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-08-15,Rômulo De Araújo,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-08-15,Hud,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-08-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-08-15,Paulo Garcia,Corte,22.0
+Marcos Ferreira,11:30,2024-08-14,Rodrigo Pires,Corte + Barba,40.0
+Marcos Ferreira,19:30,2024-08-13,Moisés Melo,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-08-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-08-13,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:30,2024-08-12,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:00,2024-08-12,Eduardo Xavier,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-08-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-08-12,Nickolas Martins,Corte,22.0
+Marcos Ferreira,19:00,2024-08-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-08-10,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:00,2024-08-10,Nicolas Minuzzi,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-08-10,Gabriel Costa,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-08-10,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-08-10,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-08-09,Cliente Avuso Moto,"Corte , Co",
+Marcos Ferreira,16:00,2024-08-09,Fleury Junior,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-08-09,Gabriel Costa,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-08-09,Diego,"Corte , Co",
+Marcos Ferreira,10:25,2024-08-09,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:24,2024-08-09,Cliente Avuso,Corte,22.0
+Marcos Ferreira,09:00,2024-08-09,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,20:00,2024-08-08,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,18:30,2024-08-08,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,16:30,2024-08-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-08-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-08-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-08-05,Jucelio Gomes,Corte,22.0
+Marcos Ferreira,09:00,2024-08-05,Lucas Villela,"Corte , Sob",
+Marcos Ferreira,15:30,2024-08-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:00,2024-08-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-08-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-08-03,Juan,Corte,22.0
+Marcos Ferreira,09:51,2024-08-03,Daniel,Sou Assinante,15.75
+Marcos Ferreira,09:00,2024-08-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:00,2024-08-02,Lucas Correia,Corte,22.0
+Marcos Ferreira,19:30,2024-08-01,Mateus Costa,Corte + Barba,40.0
+Marcos Ferreira,19:16,2024-08-01,Lucas,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-08-01,Marlon Zoppa,Corte + Barba,40.0
+Marcos Ferreira,15:30,2024-08-01,Fabio Santana,Corte,22.0
+Marcos Ferreira,09:00,2024-08-01,Marco Aurélio Helberth Souza,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:30,2024-07-31,Lucas,Corte,22.0
+Marcos Ferreira,11:00,2024-07-31,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,20:00,2024-07-30,Mateus Henrique Silva Costa,Corte + Barba,40.0
+Marcos Ferreira,18:30,2024-07-30,Lucas,Corte + Barba,40.0
+Marcos Ferreira,17:30,2024-07-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-07-30,Alberto S Leitão,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-07-29,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:00,2024-07-29,Fleury Henriques Junior,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-07-29,Lucas,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-07-29,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,09:30,2024-07-29,Nicolas,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-07-26,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,18:00,2024-07-26,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:00,2024-07-26,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:00,2024-07-26,John,Corte,22.0
+Marcos Ferreira,11:00,2024-07-26,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-07-26,Leonardo De Barros,Corte + Barba,40.0
+Marcos Ferreira,09:00,2024-07-26,Cliente Desconhecido,Barba,
+Marcos Ferreira,13:30,2024-07-25,Hudson,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-07-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-07-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-07-24,Wanderley,Corte,22.0
+Marcos Ferreira,17:00,2024-07-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-07-23,Rafael Ribeiro,Corte,22.0
+Marcos Ferreira,09:00,2024-07-23,Mateus,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-07-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:00,2024-07-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-07-20,Diogo Batista,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-07-19,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,11:00,2024-07-19,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-07-19,Cliente Desconhecido,Corte,22.0
+Marcos Ferreira,18:30,2024-07-18,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-07-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:30,2024-07-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-07-15,Victor Ono,Corte,22.0
+Marcos Ferreira,17:30,2024-07-13,Rodrigo,Corte + Barba,40.0
+Marcos Ferreira,13:30,2024-07-13,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,10:30,2024-07-13,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-07-13,Daniel,"Barba , Corte Militar",37.75
+Marcos Ferreira,19:30,2024-07-12,Nicolas,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-07-12,Edmilson Hinode,Corte,22.0
+Marcos Ferreira,09:30,2024-07-12,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-07-11,Marlon,"Corte , Sob",
+Marcos Ferreira,14:30,2024-07-11,Lucas,Corte,22.0
+Marcos Ferreira,16:53,2024-07-10,Fabio,Corte,22.0
+Marcos Ferreira,16:53,2024-07-10,Caio,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:30,2024-07-09,Rômullo Eduardo,Corte + Barba,40.0
+Marcos Ferreira,11:30,2024-07-09,Marcus,Corte,22.0
+Marcos Ferreira,10:30,2024-07-08,Nickolas Martins,Corte,22.0
+Marcos Ferreira,18:30,2024-07-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-07-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-07-06,Gabriel,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-07-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-07-06,Cliente Desconhecido,Barba,
+Marcos Ferreira,16:30,2024-07-05,Diogo Batista,Corte Militar,15.75
+Marcos Ferreira,12:22,2024-07-05,Cliente Avuso Senhor,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-07-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-07-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-07-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-07-04,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:30,2024-07-03,Paulo,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-07-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-07-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-07-02,Hudson Moura,Corte Militar,15.75
+Marcos Ferreira,12:30,2024-07-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-06-29,Douglas,Corte + Barba,40.0
+Marcos Ferreira,14:30,2024-06-29,Nicolas,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-06-29,Alberto Vieira De Vasconcelos,Corte + Barba,40.0
+Marcos Ferreira,12:51,2024-06-29,Alexandre,Corte,22.0
+Marcos Ferreira,12:30,2024-06-29,Rodrigo,Corte + Barba,40.0
+Marcos Ferreira,10:30,2024-06-29,Bruno Grillo,Corte,22.0
+Marcos Ferreira,09:30,2024-06-29,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-06-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-06-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-06-28,Lucas,Corte,22.0
+Marcos Ferreira,09:30,2024-06-28,Paulo Garcia,Corte,22.0
+Marcos Ferreira,09:00,2024-06-28,Cliente Desconhecido,Barba,
+Marcos Ferreira,20:30,2024-06-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-06-27,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-06-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-06-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-06-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:54,2024-06-27,Cliente Avuso Paula,Corte Militar,15.75
+Marcos Ferreira,10:54,2024-06-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,12:10,2024-06-26,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:25,2024-06-26,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-06-25,Diogo Batista Da Silva,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-06-25,Mateus Costa,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:00,2024-06-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:09,2024-06-22,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:09,2024-06-22,Daniel,Corte + Barba,40.0
+Marcos Ferreira,19:07,2024-06-22,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,19:07,2024-06-22,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:07,2024-06-22,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:06,2024-06-22,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-06-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-06-22,Daniel Castro,Corte + Barba,40.0
+Marcos Ferreira,14:30,2024-06-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-06-22,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,13:00,2024-06-22,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-06-22,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:00,2024-06-22,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:00,2024-06-21,José,Corte,22.0
+Marcos Ferreira,16:30,2024-06-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-06-21,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:30,2024-06-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:26,2024-06-20,Cliente Avuso,"Barba , Tonalização Ba",
+Marcos Ferreira,19:25,2024-06-20,Cliente Desconhecido,Barba,
+Marcos Ferreira,19:25,2024-06-20,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-06-20,Miguel Criança,Corte,22.0
+Marcos Ferreira,18:00,2024-06-20,Wanderley,Corte,22.0
+Marcos Ferreira,15:30,2024-06-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-06-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-06-19,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:00,2024-06-19,John,Corte,22.0
+Marcos Ferreira,14:00,2024-06-18,Teste,Corte + Barba,40.0
+Marcos Ferreira,13:30,2024-06-18,Rodrigo,Corte + Barba,40.0
+Marcos Ferreira,16:05,2024-06-15,Cliente Avuso,Corte,22.0
+Marcos Ferreira,16:05,2024-06-15,Cliente Avuso,Corte,22.0
+Marcos Ferreira,16:05,2024-06-15,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,16:04,2024-06-15,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,15:00,2024-06-15,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:30,2024-06-15,Sergio Lima,Corte Ilimitado,
+Marcos Ferreira,14:00,2024-06-15,Heitor,Corte Militar,15.75
+Marcos Ferreira,13:30,2024-06-15,Heitor,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-06-15,Nickolas Martins,Corte,22.0
+Marcos Ferreira,11:00,2024-06-15,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:00,2024-06-15,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-06-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-06-15,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-06-13,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,16:00,2024-06-13,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,15:30,2024-06-13,Victor Ono,Corte,22.0
+Marcos Ferreira,15:00,2024-06-13,Victor Ono,Corte,22.0
+Marcos Ferreira,11:30,2024-06-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-06-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-06-13,Lucas,Corte,22.0
+Marcos Ferreira,09:30,2024-06-13,Lucas,Corte,22.0
+Marcos Ferreira,09:00,2024-06-13,Lucas,Corte,22.0
+Marcos Ferreira,18:00,2024-06-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-06-12,Wallace,Corte,22.0
+Marcos Ferreira,16:00,2024-06-12,Rômulo Elesbão,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-06-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-06-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-06-08,Diogo,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-06-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-06-08,Nicolas,Corte Militar,15.75
+Marcos Ferreira,14:00,2024-06-08,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:30,2024-06-08,Rafael,Corte,22.0
+Marcos Ferreira,13:00,2024-06-08,Gabriel,Corte Militar,15.75
+Marcos Ferreira,12:30,2024-06-08,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:00,2024-06-08,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,11:30,2024-06-08,Lucas,Corte,22.0
+Marcos Ferreira,11:00,2024-06-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-06-07,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-06-07,Rafael,Corte,22.0
+Marcos Ferreira,15:00,2024-06-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-06-07,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-06-06,Rômullo,Corte + Barba,40.0
+Marcos Ferreira,14:30,2024-06-06,Lucas,Corte,22.0
+Marcos Ferreira,14:00,2024-06-06,Lucas Multicoisas,Corte Militar,15.75
+Marcos Ferreira,12:30,2024-06-06,Mateus Henrique,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-06-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-06-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-06-05,Anderson Carvalho,Corte,22.0
+Marcos Ferreira,17:00,2024-06-05,Anderson Carvalho,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-06-04,Luiz,Corte,22.0
+Marcos Ferreira,16:30,2024-06-04,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-06-04,Alberto,"Barba , Corte Militar",37.75
+Marcos Ferreira,09:00,2024-06-04,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:30,2024-06-01,Denis,Corte + Barba,40.0
+Marcos Ferreira,11:30,2024-06-01,Rodrigo,Corte + Barba,40.0
+Marcos Ferreira,11:00,2024-06-01,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:30,2024-06-01,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:00,2024-06-01,Eduardo,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-06-01,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-06-01,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:00,2024-05-31,Eduardo,Corte Militar,15.75
+Marcos Ferreira,12:00,2024-05-31,Gustavo Gaudarde,Corte + Barba,40.0
+Marcos Ferreira,11:30,2024-05-31,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-05-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-05-31,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,20:00,2024-05-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-05-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-05-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-05-29,Bruno Carvalho,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-05-29,Bruno Carvalho,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-05-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:52,2024-05-28,Cliente Avuso,Produto Desconhecido,
+Marcos Ferreira,19:51,2024-05-28,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:50,2024-05-28,Cliente Avuso,Corte,22.0
+Marcos Ferreira,17:30,2024-05-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-05-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-05-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-05-28,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-05-28,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-05-27,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,11:30,2024-05-27,Victor,Corte,22.0
+Marcos Ferreira,11:30,2024-05-25,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,11:00,2024-05-25,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-05-24,Daniel 7 Raízes,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-05-24,Lucas,Corte,22.0
+Marcos Ferreira,17:00,2024-05-24,Diogo,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-05-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-05-24,John,Corte,22.0
+Marcos Ferreira,14:49,2024-05-24,Luis,Corte,22.0
+Marcos Ferreira,17:30,2024-05-23,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:00,2024-05-23,Anderson,Corte,22.0
+Marcos Ferreira,15:30,2024-05-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-05-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-05-22,Juan Andrade,Corte + Barba,40.0
+Marcos Ferreira,15:05,2024-05-21,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,15:02,2024-05-21,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,15:02,2024-05-21,Cliente Avuso,Corte,22.0
+Marcos Ferreira,13:00,2024-05-21,Alexandre,Corte,22.0
+Marcos Ferreira,17:00,2024-05-20,Denis,Corte + Barba,40.0
+Marcos Ferreira,13:30,2024-05-20,Alexandre Vitali,Corte Militar,15.75
+Marcos Ferreira,09:30,2024-05-20,Thales Carneiro,Corte,22.0
+Marcos Ferreira,13:00,2024-05-18,Fabio,Corte,22.0
+Marcos Ferreira,12:00,2024-05-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:00,2024-05-18,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-05-17,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,18:00,2024-05-17,Gustavo Henrique Pontes,Corte,22.0
+Marcos Ferreira,16:00,2024-05-17,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-05-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:00,2024-05-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:00,2024-05-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-05-16,Paulo Garcia,Corte + Barba,40.0
+Marcos Ferreira,18:00,2024-05-16,Hudson,Corte + Barba,40.0
+Marcos Ferreira,15:00,2024-05-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:30,2024-05-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-05-15,Nicolas,Corte Militar,15.75
+Marcos Ferreira,16:00,2024-05-15,Rômulo Elesbão,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-05-14,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:30,2024-05-14,Victor,Corte,22.0
+Marcos Ferreira,11:30,2024-05-14,Gustavo,Corte + Barba,40.0
+Marcos Ferreira,17:00,2024-05-11,Diogo Farmácia,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-05-11,Victor Hugo Aguiar Alves,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:00,2024-05-11,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:30,2024-05-11,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,12:30,2024-05-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-05-11,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-05-10,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,09:00,2024-05-10,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-05-09,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:30,2024-05-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:21,2024-05-09,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,15:18,2024-05-09,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-05-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-05-09,Lucas,Corte,22.0
+Marcos Ferreira,19:30,2024-05-08,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-05-08,Bruno,Corte Militar,15.75
+Marcos Ferreira,18:00,2024-05-08,Níckolas Martins,Corte,22.0
+Marcos Ferreira,13:30,2024-05-08,Níckolas Martins,Corte,22.0
+Marcos Ferreira,12:31,2024-05-08,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,12:30,2024-05-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-05-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-05-08,Cliente Avuso,Corte,22.0
+Marcos Ferreira,11:00,2024-05-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-05-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-05-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:28,2024-05-07,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,12:28,2024-05-07,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:28,2024-05-07,Cliente Avuso,Produto Desconhecido,
+Marcos Ferreira,12:27,2024-05-07,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,12:27,2024-05-07,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-05-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-05-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-05-04,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-05-04,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:00,2024-05-04,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,16:30,2024-05-04,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-05-04,Renato Bernardelli,Corte,22.0
+Marcos Ferreira,12:30,2024-05-04,Victor Hugo Aguiar Alves,"Barba , Corte Militar",37.75
+Marcos Ferreira,12:21,2024-05-04,Cliente Avuso,Sou Assinante,15.75
+Marcos Ferreira,12:17,2024-05-04,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,12:17,2024-05-04,Cliente Avuso,Corte,22.0
+Marcos Ferreira,12:17,2024-05-04,Cliente Avuso,Corte,22.0
+Marcos Ferreira,11:00,2024-05-04,Eduardo,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-05-04,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:00,2024-05-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:00,2024-05-03,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,17:00,2024-05-02,Denis,Corte + Barba,40.0
+Marcos Ferreira,19:00,2024-04-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-04-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-04-30,Rubens,Corte Militar,15.75
+Marcos Ferreira,19:30,2024-04-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-04-29,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-04-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-04-29,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-04-28,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:56,2024-04-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,15:00,2024-04-27,Roberta (Lucas),Corte,22.0
+Marcos Ferreira,13:29,2024-04-27,Cliente Avuso,Sou Assinante,15.75
+Marcos Ferreira,13:28,2024-04-27,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,12:00,2024-04-27,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,10:30,2024-04-27,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:30,2024-04-27,Nicolas,Corte Militar,15.75
+Marcos Ferreira,09:00,2024-04-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:30,2024-04-26,Hudson,Corte Militar,15.75
+Marcos Ferreira,19:00,2024-04-25,Daniel Flores,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:30,2024-04-25,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:00,2024-04-25,Lucas,Corte Militar,15.75
+Marcos Ferreira,10:30,2024-04-25,Rodrigo,Corte + Barba,40.0
+Marcos Ferreira,20:30,2024-04-24,Maycon,Corte + Barba,40.0
+Marcos Ferreira,20:00,2024-04-24,Janaina,Corte,22.0
+Marcos Ferreira,18:00,2024-04-24,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-04-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:41,2024-04-22,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,11:41,2024-04-22,Tassio,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:30,2024-04-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-04-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:30,2024-04-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:30,2024-04-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:43,2024-04-20,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,09:00,2024-04-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:30,2024-04-19,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:00,2024-04-19,Daniel 7 Raízes,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:30,2024-04-19,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-04-19,Victor Hugo,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-04-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-04-19,Douglas Marques,Corte,22.0
+Marcos Ferreira,16:30,2024-04-19,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:12,2024-04-19,Cliente Avuso Tranca,Corte + Barba,40.0
+Marcos Ferreira,11:12,2024-04-19,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:00,2024-04-18,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:30,2024-04-18,Rafael,Corte,22.0
+Marcos Ferreira,18:00,2024-04-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-04-18,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-04-17,Sérgio Lima,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-04-17,Cleomar,Corte,22.0
+Marcos Ferreira,12:00,2024-04-17,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:41,2024-04-16,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:41,2024-04-16,Cliente Avuso,Corte,22.0
+Marcos Ferreira,09:00,2024-04-16,Alexandre,Corte,22.0
+Marcos Ferreira,18:00,2024-04-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:30,2024-04-15,Fernando Araújo,Corte,22.0
+Marcos Ferreira,12:00,2024-04-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-04-15,Eduardo,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-04-15,Eduardo,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-04-13,Lucas,Corte,22.0
+Marcos Ferreira,15:00,2024-04-13,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,12:30,2024-04-13,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,19:45,2024-04-12,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:44,2024-04-12,Cliente Avuso,Corte,22.0
+Marcos Ferreira,19:44,2024-04-12,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:44,2024-04-12,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,19:43,2024-04-12,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:43,2024-04-12,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,19:00,2024-04-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-04-12,Victor Hugo Aguiar Alves,"Barba , Corte Militar",37.75
+Marcos Ferreira,16:30,2024-04-12,Marcos,Corte Militar,15.75
+Marcos Ferreira,15:45,2024-04-12,Cliente Avuso,Corte + Barba,40.0
+Marcos Ferreira,15:45,2024-04-12,Cliente Avuso,Corte,22.0
+Marcos Ferreira,13:00,2024-04-12,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:30,2024-04-12,Cleudimar,Corte,22.0
+Marcos Ferreira,10:00,2024-04-12,Cleudimar,Corte,22.0
+Marcos Ferreira,09:30,2024-04-12,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:45,2024-04-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:45,2024-04-11,Cliente Avuso,Corte,22.0
+Marcos Ferreira,18:30,2024-04-11,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:26,2024-04-11,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,16:25,2024-04-11,Texas,Corte,22.0
+Marcos Ferreira,13:00,2024-04-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:10,2024-04-11,Cliente Avuso,Corte,22.0
+Marcos Ferreira,16:10,2024-04-10,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,16:09,2024-04-10,Cliente Avuso,Corte,22.0
+Marcos Ferreira,13:27,2024-04-10,Cliente Avuso,Corte,22.0
+Marcos Ferreira,13:27,2024-04-10,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-04-10,Alex,Corte Militar,15.75
+Marcos Ferreira,12:30,2024-04-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:00,2024-04-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-04-10,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-04-09,Wallace,Corte,22.0
+Marcos Ferreira,14:10,2024-04-09,Cliente Avuso,Corte,22.0
+Marcos Ferreira,14:10,2024-04-09,Cliente Avuso,Corte,22.0
+Marcos Ferreira,14:10,2024-04-09,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,14:09,2024-04-09,Cliente Avuso,Corte,22.0
+Marcos Ferreira,13:00,2024-04-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-04-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:02,2024-04-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:02,2024-04-08,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,20:01,2024-04-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:30,2024-04-08,Kenzo Yamamoto,Corte,22.0
+Marcos Ferreira,12:30,2024-04-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:00,2024-04-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-04-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:00,2024-04-07,Cliente Desconhecido,Barba,
+Marcos Ferreira,17:00,2024-04-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-04-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:56,2024-04-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-04-06,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-04-06,Fabio,Corte,22.0
+Marcos Ferreira,12:00,2024-04-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,11:30,2024-04-06,Roberta Seabra ( Lucas),Corte,22.0
+Marcos Ferreira,10:30,2024-04-06,Magno,Corte Militar,15.75
+Marcos Ferreira,10:00,2024-04-06,Marcelo,Corte Militar,15.75
+Marcos Ferreira,09:00,2024-04-06,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:36,2024-04-05,Irmão Do Pedro,Corte,22.0
+Marcos Ferreira,17:35,2024-04-05,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,15:26,2024-04-05,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,14:08,2024-04-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:30,2024-04-05,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,09:00,2024-04-05,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-04-04,Cleudimar,"Barba , Corte Militar",37.75
+Marcos Ferreira,18:30,2024-04-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-04-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,18:00,2024-04-03,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:00,2024-04-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:53,2024-04-03,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:00,2024-04-03,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-04-02,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:30,2024-04-02,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-04-02,Cliente Avuso,Corte,22.0
+Marcos Ferreira,15:35,2024-04-01,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,13:10,2024-04-01,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-04-01,Bruno Carvalho Mesquita Braz,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-03-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-03-30,Rômullo,"Barba , Corte Militar",37.75
+Marcos Ferreira,14:00,2024-03-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-03-30,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:00,2024-03-30,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,12:30,2024-03-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:30,2024-03-30,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-03-30,Eduardo,Corte Militar,15.75
+Marcos Ferreira,17:30,2024-03-28,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:00,2024-03-27,Richelly,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-03-27,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:50,2024-03-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,17:49,2024-03-27,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:43,2024-03-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,17:43,2024-03-27,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:17,2024-03-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,12:17,2024-03-27,Cliente Avuso,Corte,22.0
+Marcos Ferreira,18:50,2024-03-26,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-03-26,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,17:43,2024-03-26,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,17:43,2024-03-26,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,13:53,2024-03-26,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,12:35,2024-03-26,Cliente Avuso,Corte,22.0
+Marcos Ferreira,12:31,2024-03-26,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:00,2024-03-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-03-25,Jailson,Corte,22.0
+Marcos Ferreira,13:00,2024-03-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-03-25,Denis,"Barba , Corte Militar",37.75
+Marcos Ferreira,12:00,2024-03-25,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-03-25,Renato,Corte,22.0
+Marcos Ferreira,18:26,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:00,2024-03-23,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-03-23,Fernando Ruivo,Sou Assinante,15.75
+Marcos Ferreira,16:00,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:48,2024-03-23,Cliente Avuso,Corte,22.0
+Marcos Ferreira,15:30,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:00,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:30,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,12:18,2024-03-23,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,12:18,2024-03-23,Cliente Avuso,"Barba, Sob",
+Marcos Ferreira,11:00,2024-03-23,Daniel,"Barba , Corte Militar",37.75
+Marcos Ferreira,10:30,2024-03-23,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,10:00,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-03-23,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,20:00,2024-03-22,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,20:00,2024-03-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:30,2024-03-22,Cliente Avuso,"Barba , Corte Militar",37.75
+Marcos Ferreira,19:00,2024-03-22,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,17:30,2024-03-22,Fernando Araújo,Corte Militar,15.75
+Marcos Ferreira,17:00,2024-03-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-03-22,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:30,2024-03-22,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-03-21,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,11:06,2024-03-21,Devi Trança,Corte Militar,15.75
+Marcos Ferreira,10:42,2024-03-21,Crédito,Corte Militar,15.75
+Marcos Ferreira,19:30,2024-03-20,Fernando,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-03-20,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-03-20,Alexandre Europa,Corte,22.0
+Marcos Ferreira,16:00,2024-03-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:00,2024-03-20,Jesse,Corte,22.0
+Marcos Ferreira,13:17,2024-03-20,Izais,"Barba , Corte Militar",37.75
+Marcos Ferreira,11:29,2024-03-20,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-03-20,Matheus,Corte Militar,15.75
+Marcos Ferreira,17:24,2024-03-19,Texas,Corte,22.0
+Marcos Ferreira,10:34,2024-03-19,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:04,2024-03-19,Cabeleireiro Navalha,Corte Militar,15.75
+Marcos Ferreira,09:35,2024-03-19,Academia Disney,Corte,22.0
+Marcos Ferreira,18:30,2024-03-18,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,18:00,2024-03-16,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,17:30,2024-03-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,16:30,2024-03-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-03-16,Paulo,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:00,2024-03-16,Andre Neiva,Sou Assinante,15.75
+Marcos Ferreira,14:30,2024-03-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:00,2024-03-16,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,13:00,2024-03-16,Cliente Avuso,Corte,22.0
+Marcos Ferreira,12:30,2024-03-16,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,12:30,2024-03-16,Rafael,Corte,22.0
+Marcos Ferreira,12:00,2024-03-16,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,11:00,2024-03-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:00,2024-03-16,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:48,2024-03-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:48,2024-03-15,Cliente Avuso,Corte Militar,15.75
+Marcos Ferreira,19:10,2024-03-15,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,17:15,2024-03-15,Newton,Corte Militar,15.75
+Marcos Ferreira,16:01,2024-03-15,Moisés,Corte Militar,15.75
+Marcos Ferreira,15:45,2024-03-15,Igor 307,Corte Militar,15.75
+Marcos Ferreira,11:30,2024-03-15,Lucas,Corte,22.0
+Marcos Ferreira,10:40,2024-03-15,Tranças,Corte Militar,15.75
+Marcos Ferreira,10:11,2024-03-15,Cliente Avuso,Corte,22.0
+Marcos Ferreira,18:07,2024-03-14,Militar,Corte Militar,15.75
+Marcos Ferreira,14:30,2024-03-14,Gabriel Costa,Corte,22.0
+Marcos Ferreira,14:00,2024-03-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-03-14,Cliente Avuso,Corte,22.0
+Marcos Ferreira,10:00,2024-03-14,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,19:00,2024-03-13,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,15:34,2024-03-13,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,15:30,2024-03-13,Cliente Avuso,Corte,22.0
+Marcos Ferreira,15:15,2024-03-13,Militar Filho,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-03-13,Pedro Victor,Sou Assinante,15.75
+Marcos Ferreira,19:04,2024-03-11,Militar Cauã,Corte Militar,15.75
+Marcos Ferreira,18:30,2024-03-11,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,14:00,2024-03-11,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,13:30,2024-03-11,Nícolas,Corte Militar,15.75
+Marcos Ferreira,13:00,2024-03-11,Luiz,Corte,22.0
+Marcos Ferreira,10:00,2024-03-11,Bruno,Corte Militar,15.75
+Marcos Ferreira,15:30,2024-03-09,Cristiano,"Barba , Corte Militar",37.75
+Marcos Ferreira,15:15,2024-03-09,Joana,Corte,22.0
+Marcos Ferreira,15:00,2024-03-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,14:30,2024-03-09,Matheus Maemo,Corte Militar,15.75
+Marcos Ferreira,11:00,2024-03-09,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,10:00,2024-03-09,Cleudimar Silvestre,"Barba , Corte Militar",37.75
+Marcos Ferreira,17:30,2024-03-08,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,16:30,2024-03-08,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,14:00,2024-03-08,Diego Brandão,Corte,22.0
+Marcos Ferreira,13:00,2024-03-08,Hudson Moura,Corte,22.0
+Marcos Ferreira,11:30,2024-03-08,Cliente Desconhecido,Produto Desconhecido,
+Marcos Ferreira,09:58,2024-03-08,Cliente Avuso,Corte,22.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte,22.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,Sou Assinante,15.75
+Marcos Ferreira,,,Cliente Desconhecido,"Barba , Corte Militar",37.75
+Marcos Ferreira,,,Cliente Desconhecido,Barba Ilimitado,
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Sob",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba , Corte Militar",37.75
+Marcos Ferreira,,,Cliente Desconhecido,Barba,
+Marcos Ferreira,,,Cliente Desconhecido,Barba,
+Marcos Ferreira,,,Cliente Desconhecido,Corte,22.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Co",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba       , Co",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte ,",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,Corte Ilimitado,
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,Corte,22.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,"Barba      , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba, Sob",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Sob",
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,"Barba , Tonalização Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba      , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba     , Sob",
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,Barba,
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Co",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Ba",
+Marcos Ferreira,,,Cliente Desconhecido,"Barba      , Co",
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,"Barba, Tonalização Cabelo, Platinado",
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,"Barba, Tonali",
+Marcos Ferreira,,,Cliente Desconhecido,Corte + Barba,40.0
+Marcos Ferreira,,,Cliente Desconhecido,"Corte   , Co",
+Marcos Ferreira,,,Cliente Desconhecido,Corte Militar,15.75
+Marcos Ferreira,,,Cliente Desconhecido,"Barba     ,",
+Cris Lopes,18:37,2025-04-11,Adriano,Corte,22.0
+Cris Lopes,16:57,2025-04-11,Nicolas,Corte Militar,15.75
+Cris Lopes,14:25,2025-04-11,Fi Maria,Corte Militar,15.75
+Cris Lopes,16:53,2025-04-10,Maurilio,Corte Militar,15.75
+Cris Lopes,19:18,2025-04-09,Kaleb,Corte,22.0
+Cris Lopes,17:34,2025-04-09,Kenedy,Corte,22.0
+Cris Lopes,17:34,2025-04-09,Jonata,Corte,22.0
+Cris Lopes,15:45,2025-04-09,Rafael,Corte Militar,15.75
+Cris Lopes,18:47,2025-04-07,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,18:00,2025-04-07,Paulo Gonçalves Garcia,Sou Assinante,15.75
+Cris Lopes,17:52,2025-04-07,Ansergio,Corte Militar,15.75
+Cris Lopes,15:46,2025-04-07,Alexandre,Corte Militar,15.75
+Cris Lopes,14:22,2025-04-07,Americano,"Barba , Corte Militar",37.75
+Cris Lopes,11:22,2025-04-07,Marques,Corte Militar,15.75
+Cris Lopes,10:05,2025-04-07,Lucas,Corte Militar,15.75
+Cris Lopes,14:30,2025-04-05,David Silva,Sou Assinante,15.75
+Cris Lopes,12:48,2025-04-05,Luan,Corte Militar,15.75
+Cris Lopes,11:46,2025-04-05,Wilson,Corte,22.0
+Cris Lopes,10:28,2025-04-05,Junior,Corte Militar,15.75
+Cris Lopes,17:48,2025-04-04,Nilton,Corte + Barba,40.0
+Cris Lopes,14:45,2025-04-04,Edmilson,Corte Militar,15.75
+Cris Lopes,14:44,2025-04-04,Alexandre,"Barba     , Co",
+Cris Lopes,11:00,2025-04-04,Daniel,Corte Militar,15.75
+Cris Lopes,16:12,2025-04-03,Emerson,"Corte   , Ba",
+Cris Lopes,12:19,2025-04-03,Gabriela,Corte Militar,15.75
+Cris Lopes,18:49,2025-04-02,Coutinho,Corte Militar,15.75
+Cris Lopes,15:23,2025-04-02,Jamil,Corte + Barba,40.0
+Cris Lopes,13:58,2025-04-02,Flavio,"Barba , Corte Militar",37.75
+Cris Lopes,11:56,2025-04-02,Eduardo,"Barba , Corte Militar",37.75
+Cris Lopes,14:47,2025-03-31,Kaio,Corte Militar,15.75
+Cris Lopes,13:14,2025-03-31,Geraldo,Corte Militar,15.75
+Cris Lopes,13:14,2025-03-31,Rafael,"Barba , Corte Militar",37.75
+Cris Lopes,10:16,2025-03-31,Paulo Gonçalves Plano,Corte Militar,15.75
+Cris Lopes,10:15,2025-03-31,Paulo Gonçalves Plano,Corte Militar,15.75
+Cris Lopes,17:51,2025-03-29,Pedro,Corte Militar,15.75
+Cris Lopes,16:30,2025-03-29,Lucas Azumna,Corte,22.0
+Cris Lopes,13:00,2025-03-29,David Silva,Sou Assinante,15.75
+Cris Lopes,12:14,2025-03-29,Josean,Corte Militar,15.75
+Cris Lopes,09:42,2025-03-29,Daniel,Corte,22.0
+Cris Lopes,18:55,2025-03-28,César Ricardo,"Corte   , Ba",
+Cris Lopes,16:53,2025-03-28,Senhor,Corte Militar,15.75
+Cris Lopes,16:04,2025-03-28,Rafael,Corte Militar,15.75
+Cris Lopes,15:16,2025-03-28,Guilherme,"Barba , Corte Militar",37.75
+Cris Lopes,12:50,2025-03-28,Pedro,Corte Militar,15.75
+Cris Lopes,20:01,2025-03-27,Jonata,Corte Militar,15.75
+Cris Lopes,20:01,2025-03-27,Carlos,Corte Militar,15.75
+Cris Lopes,20:00,2025-03-27,Ricardo,Corte Militar,15.75
+Cris Lopes,15:31,2025-03-27,Gustavo,Corte Militar,15.75
+Cris Lopes,14:00,2025-03-27,Giovani,Corte Militar,15.75
+Cris Lopes,18:07,2025-03-24,Mateus,Corte Militar,15.75
+Cris Lopes,16:00,2025-03-24,Alexs Melo,Corte Militar,15.75
+Cris Lopes,13:12,2025-03-24,Eduardo,"Barba , Corte Militar",37.75
+Cris Lopes,17:42,2025-03-22,Francisco,Corte,22.0
+Cris Lopes,16:10,2025-03-22,Marcão Plano,Corte Militar,15.75
+Cris Lopes,15:08,2025-03-22,Márcio,Corte,22.0
+Cris Lopes,13:13,2025-03-22,Heitor,Corte,22.0
+Cris Lopes,10:00,2025-03-22,Thiago Ramos,Corte Militar,15.75
+Cris Lopes,18:35,2025-03-21,Mateus,Corte Militar,15.75
+Cris Lopes,16:01,2025-03-21,Reinan,Corte Militar,15.75
+Cris Lopes,18:51,2025-03-20,Carlos Augusto Plano,Corte Militar,15.75
+Cris Lopes,18:00,2025-03-20,Carlos Augusto,Sou Assinante,15.75
+Cris Lopes,13:29,2025-03-20,Gustavo,Corte,22.0
+Cris Lopes,11:30,2025-03-20,David Silva,Sou Assinante,15.75
+Cris Lopes,17:52,2025-03-17,Chagas,Corte Militar,15.75
+Cris Lopes,17:12,2025-03-17,Eduardo,Corte + Barba,40.0
+Cris Lopes,12:20,2025-03-17,Marcelo,Corte Militar,15.75
+Cris Lopes,10:21,2025-03-17,Rafael,Corte Militar,15.75
+Cris Lopes,17:35,2025-03-15,Elias,Corte + Barba,40.0
+Cris Lopes,13:06,2025-03-15,Dante,"Barba , Corte Militar",37.75
+Cris Lopes,11:40,2025-03-15,Alex,Corte + Barba,40.0
+Cris Lopes,09:30,2025-03-15,Gabriel Pieralisi,Corte + Barba,40.0
+Cris Lopes,19:54,2025-03-14,Caio,Corte,22.0
+Cris Lopes,17:47,2025-03-14,Bruno,Corte Militar,15.75
+Cris Lopes,17:47,2025-03-14,Ansergio,Corte Militar,15.75
+Cris Lopes,14:45,2025-03-14,Mateus,"Barba , Corte Militar",37.75
+Cris Lopes,18:34,2025-03-13,Artur,Corte + Barba,40.0
+Cris Lopes,16:41,2025-03-13,Rafael,Corte Militar,15.75
+Cris Lopes,11:30,2025-03-13,David Silva,Sou Assinante,15.75
+Cris Lopes,19:51,2025-03-12,Kaleb,"Barba     , Co",
+Cris Lopes,17:24,2025-03-12,Pedro,Corte,22.0
+Cris Lopes,15:46,2025-03-12,1 Filho Maria,Corte Militar,15.75
+Cris Lopes,13:47,2025-03-12,Marcos,Corte,22.0
+Cris Lopes,11:22,2025-03-12,Cliente 1.5,Corte Militar,15.75
+Cris Lopes,10:21,2025-03-12,Daniel,Corte Militar,15.75
+Cris Lopes,10:21,2025-03-12,Yuri,Corte,22.0
+Cris Lopes,17:55,2025-03-10,Alex,Corte,22.0
+Cris Lopes,14:27,2025-03-10,Alessandro,Corte,22.0
+Cris Lopes,13:29,2025-03-10,Edson,Corte Militar,15.75
+Cris Lopes,10:32,2025-03-10,Daniel,Corte Militar,15.75
+Cris Lopes,10:32,2025-03-10,Jorge,"Barba , Corte Militar",37.75
+Cris Lopes,13:55,2025-03-08,Rafael,Corte Militar,15.75
+Cris Lopes,11:04,2025-03-08,Alexandre,Corte Militar,15.75
+Cris Lopes,09:59,2025-03-08,Reinaldo,Corte,22.0
+Cris Lopes,16:30,2025-03-07,Menino Marista,Corte Militar,15.75
+Cris Lopes,16:07,2025-03-07,Kaio,Corte,22.0
+Cris Lopes,12:44,2025-03-07,Geraldo,Corte Militar,15.75
+Cris Lopes,11:12,2025-03-07,Sergio,Corte,22.0
+Cris Lopes,10:35,2025-03-07,Paulo Plano,Corte Militar,15.75
+Cris Lopes,10:35,2025-03-07,Paulo Plano,Corte Militar,15.75
+Cris Lopes,13:33,2025-03-06,Pedro,"Barba     , Acabamento , Colo",
+Cris Lopes,12:07,2025-03-06,Sergio,"Barba     , Co",
+Cris Lopes,11:30,2025-03-06,David Silva,Sou Assinante,15.75
+Cris Lopes,17:28,2025-03-05,Criança Corinthians,Corte Militar,15.75
+Cris Lopes,15:42,2025-03-05,Algusto,Corte + Barba,40.0
+Cris Lopes,10:41,2025-03-05,Grisalho,Corte Militar,15.75
+Cris Lopes,10:41,2025-03-05,Marcos Militar,Corte Militar,15.75
+Cris Lopes,10:40,2025-03-05,Careca,Corte Militar,15.75
+Cris Lopes,17:05,2025-02-28,Jonas,Corte + Barba,40.0
+Cris Lopes,11:37,2025-02-28,Jose,Corte,22.0
+Cris Lopes,17:46,2025-02-27,Nilton,Corte + Barba,40.0
+Cris Lopes,16:35,2025-02-27,Jacson,Corte Militar,15.75
+Cris Lopes,12:28,2025-02-27,Cabeludo Mullet,Corte,22.0
+Cris Lopes,11:32,2025-02-27,Alan,Corte Militar,15.75
+Cris Lopes,16:19,2025-02-26,Leonardo,Corte Militar,15.75
+Cris Lopes,10:57,2025-02-26,Loiro 307,Corte,22.0
+Cris Lopes,18:33,2025-02-24,Victor,Corte Militar,15.75
+Cris Lopes,18:33,2025-02-24,Pedro,Corte,22.0
+Cris Lopes,13:30,2025-02-24,Alexsandro Melo,Corte Militar,15.75
+Cris Lopes,16:55,2025-02-22,Francisco,Corte,22.0
+Cris Lopes,12:30,2025-02-22,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,09:33,2025-02-22,Francisco Alvaristo,Corte,22.0
+Cris Lopes,11:52,2025-02-21,Kaleb,Corte + Barba,40.0
+Cris Lopes,19:30,2025-02-20,Roger,Corte Militar,15.75
+Cris Lopes,17:04,2025-02-20,Kenedy,Corte Militar,15.75
+Cris Lopes,14:30,2025-02-20,Gabriel Costa Chaves,Corte Militar,15.75
+Cris Lopes,19:27,2025-02-19,Roger,Corte,22.0
+Cris Lopes,16:12,2025-02-19,Careca Barba,Barba             Co,
+Cris Lopes,14:50,2025-02-19,Mercado Cara,Corte,22.0
+Cris Lopes,10:43,2025-02-19,Daniel,Corte Militar,15.75
+Cris Lopes,19:17,2025-02-17,Arthur Batista,Corte Militar,15.75
+Cris Lopes,17:00,2025-02-17,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,15:47,2025-02-17,Rodrigo,Corte Militar,15.75
+Cris Lopes,11:00,2025-02-17,Douglas Willian Sousa,Corte Militar,15.75
+Cris Lopes,09:37,2025-02-17,Joao,Corte Militar,15.75
+Cris Lopes,17:54,2025-02-15,Ian,Corte Militar,15.75
+Cris Lopes,13:01,2025-02-15,Bruno,"Barba , Corte Militar",37.75
+Cris Lopes,12:00,2025-02-15,David Silva,Corte,22.0
+Cris Lopes,09:57,2025-02-15,Tarcisio,Corte,22.0
+Cris Lopes,18:46,2025-02-14,Jonata,Corte,22.0
+Cris Lopes,17:25,2025-02-14,Antônio,Corte + Barba,40.0
+Cris Lopes,15:51,2025-02-14,Sergio,Corte Militar,15.75
+Cris Lopes,14:35,2025-02-14,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,17:19,2025-02-13,Raian,Corte Militar,15.75
+Cris Lopes,12:41,2025-02-13,Felipe,Corte,22.0
+Cris Lopes,11:47,2025-02-12,Palitor,"Barba , Corte Militar",37.75
+Cris Lopes,15:30,2025-02-11,Fernando Araújo Aragão,Corte Militar,15.75
+Cris Lopes,14:31,2025-02-11,Daniel,Corte Militar,15.75
+Cris Lopes,14:30,2025-02-11,Daniel,Corte Militar,15.75
+Cris Lopes,12:45,2025-02-11,José,Corte Militar,15.75
+Cris Lopes,12:45,2025-02-11,José,Corte Militar,15.75
+Cris Lopes,17:39,2025-02-10,Vini Plano,Corte Militar,15.75
+Cris Lopes,17:38,2025-02-10,Pedro,Corte Militar,15.75
+Cris Lopes,15:30,2025-02-10,Kenzo Yamamoto,Corte,22.0
+Cris Lopes,15:28,2025-02-10,Geraldo,Corte Militar,15.75
+Cris Lopes,11:35,2025-02-10,Guilherme,Corte Militar,15.75
+Cris Lopes,11:34,2025-02-10,Lucas,Corte Militar,15.75
+Cris Lopes,17:23,2025-02-08,Caio,Corte Militar,15.75
+Cris Lopes,15:24,2025-02-08,Edimar,Corte,22.0
+Cris Lopes,13:24,2025-02-08,Victor Luna,Corte Militar,15.75
+Cris Lopes,11:30,2025-02-08,David Silva,Corte,22.0
+Cris Lopes,13:32,2025-02-07,Samuel,Corte Militar,15.75
+Cris Lopes,20:04,2025-02-06,Lucas,Corte Militar,15.75
+Cris Lopes,19:12,2025-02-06,Marcos,Corte Militar,15.75
+Cris Lopes,19:12,2025-02-06,Adriano,Corte,22.0
+Cris Lopes,19:11,2025-02-06,Sergio,Corte Militar,15.75
+Cris Lopes,19:11,2025-02-06,Romulo,Corte Militar,15.75
+Cris Lopes,15:10,2025-02-06,Pablo,Corte,22.0
+Cris Lopes,13:03,2025-02-06,Mateus,Corte Militar,15.75
+Cris Lopes,11:33,2025-02-06,Gabriel,Corte Militar,15.75
+Cris Lopes,11:33,2025-02-06,Jorge,Corte,22.0
+Cris Lopes,19:53,2025-02-05,Senhor,Corte Militar,15.75
+Cris Lopes,19:19,2025-02-05,Eli,Corte + Barba,40.0
+Cris Lopes,17:38,2025-02-05,Yuri,"Barba , Corte Militar",37.75
+Cris Lopes,14:22,2025-02-05,Palhaço Senhor,Corte Militar,15.75
+Cris Lopes,10:32,2025-02-05,Filho Fabricio,Corte Militar,15.75
+Cris Lopes,19:41,2025-02-04,Davi,Corte Militar,15.75
+Cris Lopes,18:48,2025-02-04,Gustavo,Corte Militar,15.75
+Cris Lopes,17:46,2025-02-04,Fabia Caxias,Corte Militar,15.75
+Cris Lopes,15:30,2025-02-04,Carlos,Corte Militar,15.75
+Cris Lopes,15:30,2025-02-04,Carlos,Corte Militar,15.75
+Cris Lopes,15:30,2025-02-04,Daniel,Corte Militar,15.75
+Cris Lopes,12:04,2025-02-04,Gabriel,"Barba , Corte Militar",37.75
+Cris Lopes,15:30,2025-02-02,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,17:33,2025-02-01,Rodrigo,Corte Militar,15.75
+Cris Lopes,16:31,2025-02-01,Davi Filho,Corte Militar,15.75
+Cris Lopes,16:31,2025-02-01,Carlos Pai,Corte Militar,15.75
+Cris Lopes,16:29,2025-02-01,Marcio,Corte Militar,15.75
+Cris Lopes,16:29,2025-02-01,Reinaldo,Corte Militar,15.75
+Cris Lopes,13:49,2025-02-01,Tiago,Corte Militar,15.75
+Cris Lopes,11:26,2025-02-01,Marcelo,Corte Militar,15.75
+Cris Lopes,10:19,2025-02-01,Délio,"Barba , Corte Militar",37.75
+Cris Lopes,09:31,2025-02-01,Sued Plano,Corte Militar,15.75
+Cris Lopes,09:30,2025-02-01,Carlos Augusto Plano,Corte Militar,15.75
+Cris Lopes,09:00,2025-02-01,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,19:21,2025-01-31,Amigo Marcos,Corte Militar,15.75
+Cris Lopes,17:46,2025-01-31,Murilo Santos,Corte,22.0
+Cris Lopes,14:04,2025-01-31,Tassiano,Corte,22.0
+Cris Lopes,10:12,2025-01-31,Paulo Gonçalves Plano,Corte Militar,15.75
+Cris Lopes,17:29,2025-01-30,Michel,Corte + Barba,40.0
+Cris Lopes,15:36,2025-01-30,Lucas,Corte Militar,15.75
+Cris Lopes,14:45,2025-01-30,Edilson,Corte,22.0
+Cris Lopes,17:45,2025-01-29,Gustavo Militar,Corte Militar,15.75
+Cris Lopes,16:09,2025-01-29,Gabriel,Corte,22.0
+Cris Lopes,15:12,2025-01-29,Edson,Corte Militar,15.75
+Cris Lopes,09:38,2025-01-29,Marcelo,Corte Militar,15.75
+Cris Lopes,16:08,2025-01-28,Emerson,Corte Militar,15.75
+Cris Lopes,13:09,2025-01-28,Marcio,Corte Militar,15.75
+Cris Lopes,11:58,2025-01-28,David,Corte Militar,15.75
+Cris Lopes,09:15,2025-01-28,Militar Grandão,Corte Militar,15.75
+Cris Lopes,18:18,2025-01-27,Antônio,Corte Militar,15.75
+Cris Lopes,14:15,2025-01-27,Joao,Corte Militar,15.75
+Cris Lopes,14:14,2025-01-27,Caio,Corte Militar,15.75
+Cris Lopes,18:09,2025-01-25,Rodrigo,Corte Militar,15.75
+Cris Lopes,17:12,2025-01-25,Edson,Corte Militar,15.75
+Cris Lopes,14:17,2025-01-25,Eduardo,Corte Militar,15.75
+Cris Lopes,13:01,2025-01-25,Gilson,Corte Militar,15.75
+Cris Lopes,11:14,2025-01-25,Lucas,Corte Militar,15.75
+Cris Lopes,09:47,2025-01-25,Rodrigo,Corte Militar,15.75
+Cris Lopes,19:43,2025-01-24,Kenedy,Corte Militar,15.75
+Cris Lopes,16:07,2025-01-24,Davi,Corte Militar,15.75
+Cris Lopes,16:06,2025-01-24,Wolf,Corte,22.0
+Cris Lopes,14:23,2025-01-24,Clemilson,Corte Militar,15.75
+Cris Lopes,12:30,2025-01-24,Tarsys Souza,Corte + Barba,40.0
+Cris Lopes,12:25,2025-01-24,Lucas Plano,Corte Militar,15.75
+Cris Lopes,10:11,2025-01-24,Paulo Gonçalves Plano,Corte Militar,15.75
+Cris Lopes,10:10,2025-01-24,Paulo Gonçalves Plano,Corte Militar,15.75
+Cris Lopes,09:00,2025-01-24,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,18:03,2025-01-23,Davi,Corte Militar,15.75
+Cris Lopes,18:02,2025-01-23,Marcos,Corte Militar,15.75
+Cris Lopes,11:24,2025-01-23,Antônio,Corte,22.0
+Cris Lopes,11:24,2025-01-23,Nivaldo 1,Corte Militar,15.75
+Cris Lopes,19:00,2025-01-22,Andre,Corte,22.0
+Cris Lopes,19:00,2025-01-22,Suede Plano,Corte Militar,15.75
+Cris Lopes,18:59,2025-01-22,Tiago,Corte,22.0
+Cris Lopes,17:00,2025-01-22,Mateus Ishiruji,Corte Militar,15.75
+Cris Lopes,10:02,2025-01-22,Joao,Corte Militar,15.75
+Cris Lopes,10:02,2025-01-22,Cesar,Corte Militar,15.75
+Cris Lopes,19:46,2025-01-21,Felipe,Corte Militar,15.75
+Cris Lopes,18:05,2025-01-21,Felipe,Corte Militar,15.75
+Cris Lopes,15:40,2025-01-21,Moisés Plano,Corte Militar,15.75
+Cris Lopes,15:00,2025-01-21,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,12:20,2025-01-21,Ana,Corte Militar,15.75
+Cris Lopes,10:45,2025-01-21,Ricardo,Corte Militar,15.75
+Cris Lopes,17:30,2025-01-20,Herenyn Estevam.’.,Corte Militar,15.75
+Cris Lopes,17:11,2025-01-20,Edson,Corte Militar,15.75
+Cris Lopes,17:11,2025-01-20,Heitor,Corte Militar,15.75
+Cris Lopes,17:11,2025-01-20,Ricardo,Corte Militar,15.75
+Cris Lopes,13:54,2025-01-20,Carlos Augusto Plano,Corte Militar,15.75
+Cris Lopes,13:54,2025-01-20,Carlos Augusto Plano,Corte Militar,15.75
+Cris Lopes,13:54,2025-01-20,Sonja,Corte Militar,15.75
+Cris Lopes,12:32,2025-01-20,Lucas,Corte Militar,15.75
+Cris Lopes,18:12,2025-01-18,Maria Filhos,Corte Militar,15.75
+Cris Lopes,16:00,2025-01-18,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,15:23,2025-01-18,Vini Plano,Corte Militar,15.75
+Cris Lopes,14:34,2025-01-18,Renan,Corte Militar,15.75
+Cris Lopes,11:58,2025-01-18,Gabriel,Corte + Barba,40.0
+Cris Lopes,11:58,2025-01-18,Eduardo,"Barba     , Co",
+Cris Lopes,11:00,2025-01-18,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,20:14,2025-01-17,Agnaldo,Corte Militar,15.75
+Cris Lopes,20:13,2025-01-17,Adriano,Corte + Barba,40.0
+Cris Lopes,17:55,2025-01-17,Jonatas,Corte,22.0
+Cris Lopes,16:59,2025-01-17,Andre,Corte Militar,15.75
+Cris Lopes,16:59,2025-01-17,Andre,Corte Militar,15.75
+Cris Lopes,16:58,2025-01-17,Arlindo,"Barba , Corte Militar",37.75
+Cris Lopes,13:03,2025-01-17,Rodrigo,Corte Militar,15.75
+Cris Lopes,12:13,2025-01-17,Jamil,Corte Militar,15.75
+Cris Lopes,12:13,2025-01-17,Fernando,"Barba , Corte Militar",37.75
+Cris Lopes,16:47,2025-01-16,Eduardo,"Barba     , Co",
+Cris Lopes,13:49,2025-01-16,Lais,Corte Militar,15.75
+Cris Lopes,20:12,2025-01-15,Cliente Desconhecido,Produto Desconhecido,
+Cris Lopes,20:11,2025-01-15,Victor Hugo Plano,Corte Militar,15.75
+Cris Lopes,18:27,2025-01-15,Vinícius Plano,Corte Militar,15.75
+Cris Lopes,18:27,2025-01-15,Gabriel,Corte Militar,15.75
+Cris Lopes,18:26,2025-01-15,Vinícius Plano,Corte Militar,15.75
+Cris Lopes,18:26,2025-01-15,Gilmara,Corte Militar,15.75
+Cris Lopes,18:25,2025-01-15,Paulo,"Barba , Corte Militar",37.75
+Cris Lopes,10:30,2025-01-15,Aglenio Rodrigues,Corte Militar,15.75
+Cris Lopes,10:28,2025-01-15,Cliente Careca,Corte Militar,15.75
+Cris Lopes,15:29,2025-01-14,Rômulo,Corte Militar,15.75
+Cris Lopes,11:48,2025-01-14,Aguiar,Corte Militar,15.75
+Cris Lopes,11:42,2025-01-14,Tiago,Corte Militar,15.75
+Cris Lopes,18:58,2025-01-13,Fernando,"Barba , Corte Militar",37.75
+Cris Lopes,14:55,2025-01-13,Lucas,Corte Militar,15.75
+Cris Lopes,18:33,2025-01-11,Renato,Corte,22.0
+Cris Lopes,13:25,2025-01-11,Fred,"Barba , Corte Militar",37.75
+Cris Lopes,13:24,2025-01-11,Fred,Corte,22.0
+Cris Lopes,19:46,2025-01-10,Vivsvan,Corte + Barba,40.0
+Cris Lopes,18:06,2025-01-10,Cliente Yuri,Corte,22.0
+Cris Lopes,,,Cliente Desconhecido,Corte Militar,15.75
+Cris Lopes,,,Cliente Desconhecido,Corte,22.0
+Cris Lopes,,,Cliente Desconhecido,"Barba , Corte Militar",37.75
+Cris Lopes,,,Cliente Desconhecido,Corte + Barba,40.0
+Cris Lopes,,,Cliente Desconhecido,Sou Assinante,15.75
+Cris Lopes,,,Cliente Desconhecido,Corte Militar,15.75
+Cris Lopes,,,Cliente Desconhecido,"Barba      , Co",
+Cris Lopes,,,Cliente Desconhecido,"Barba     , Co",
+Cris Lopes,,,Cliente Desconhecido,"Corte   , Ba",
+Cris Lopes,,,Cliente Desconhecido,"Barba      , Acabamento , Colo",
+Cris Lopes,,,Cliente Desconhecido,Corte Militar,15.75
+Cris Lopes,,,Cliente Desconhecido,Corte + Barba,40.0
+Cris Lopes,,,Cliente Desconhecido,"Corte   , Co",
+Cecília Fonseca,18:00,2025-04-11,.,Corte,22.0
+Cecília Fonseca,14:22,2025-04-11,.,Corte Militar,15.75
+Cecília Fonseca,14:43,2025-04-10,Bruno,Corte,22.0
+Cecília Fonseca,18:51,2025-04-08,.,"Barba     , Co",
+Cecília Fonseca,17:38,2025-04-08,.,Corte + Barba,40.0
+Cecília Fonseca,12:31,2025-04-08,.,Corte + Barba,40.0
+Cecília Fonseca,12:30,2025-04-08,Geoge,Corte Militar,15.75
+Cecília Fonseca,12:29,2025-04-08,Gilberto,Corte Militar,15.75
+Cecília Fonseca,20:14,2025-04-07,Matheus,Corte + Barba,40.0
+Cecília Fonseca,14:42,2025-04-07,Andre,Corte Militar,15.75
+Cecília Fonseca,11:50,2025-04-07,Angelo,Corte,22.0
+Cecília Fonseca,11:50,2025-04-07,Luciano,Corte Militar,15.75
+Cecília Fonseca,15:00,2025-04-05,Marcelo,Corte Militar,15.75
+Cecília Fonseca,15:00,2025-04-05,Aurelio,Corte Militar,15.75
+Cecília Fonseca,12:18,2025-04-05,Luis Eduardo,Corte Militar,15.75
+Cecília Fonseca,10:44,2025-04-05,Leonardo,Corte Militar,15.75
+Cecília Fonseca,16:00,2025-04-04,Tacio,Corte Militar,15.75
+Cecília Fonseca,14:46,2025-04-04,Elan,Corte Militar,15.75
+Cecília Fonseca,14:45,2025-04-04,Eitor,Corte Militar,15.75
+Cecília Fonseca,14:45,2025-04-04,.,Corte,22.0
+Cecília Fonseca,18:30,2025-04-03,Pedro,"Corte   , Sob",
+Cecília Fonseca,18:30,2025-04-03,Moises,Corte Militar,15.75
+Cecília Fonseca,16:58,2025-04-03,Tiago,Corte Militar,15.75
+Cecília Fonseca,14:56,2025-04-03,Cara Chato,Corte,22.0
+Cecília Fonseca,09:49,2025-04-03,Joao,Corte Militar,15.75
+Cecília Fonseca,18:42,2025-04-01,.,Corte,22.0
+Cecília Fonseca,18:42,2025-04-01,Lorenzo,Corte,22.0
+Cecília Fonseca,17:52,2025-04-01,Cabeça Branca,Corte Militar,15.75
+Cecília Fonseca,15:46,2025-04-01,Wilian,Corte Militar,15.75
+Cecília Fonseca,13:30,2025-04-01,Saulo Revoredo,Corte Militar,15.75
+Cecília Fonseca,11:31,2025-04-01,Enzo,Corte Militar,15.75
+Cecília Fonseca,11:31,2025-04-01,Wolf,Corte,22.0
+Cecília Fonseca,19:18,2025-03-31,Jose,Corte,22.0
+Cecília Fonseca,11:33,2025-03-31,David,Corte Militar,15.75
+Cecília Fonseca,17:26,2025-03-29,Marcola,Corte Militar,15.75
+Cecília Fonseca,15:39,2025-03-29,Blusa Roxa,Corte,22.0
+Cecília Fonseca,15:39,2025-03-29,Doido,Corte,22.0
+Cecília Fonseca,12:37,2025-03-29,José,Corte,22.0
+Cecília Fonseca,09:45,2025-03-29,Lucas,Corte,22.0
+Cecília Fonseca,19:12,2025-03-27,Ricardo,Corte,22.0
+Cecília Fonseca,19:12,2025-03-27,Wilson,Corte,22.0
+Cecília Fonseca,19:11,2025-03-27,Plano Marcos,Corte Militar,15.75
+Cecília Fonseca,19:56,2025-03-26,.,Corte Militar,15.75
+Cecília Fonseca,19:55,2025-03-26,.,Corte Militar,15.75
+Cecília Fonseca,12:20,2025-03-26,Marcos,Corte + Barba,40.0
+Cecília Fonseca,20:48,2025-03-25,Erico,Corte + Barba,40.0
+Cecília Fonseca,19:15,2025-03-25,Fernando,Corte Militar,15.75
+Cecília Fonseca,17:30,2025-03-25,Daniel Freitas,Corte Militar,15.75
+Cecília Fonseca,16:54,2025-03-25,Jordel,Corte Militar,15.75
+Cecília Fonseca,11:37,2025-03-25,Cliente Desconhecido,Produto Desconhecido,
+Cecília Fonseca,19:16,2025-03-24,Breno,Corte Militar,15.75
+Cecília Fonseca,17:50,2025-03-24,Enzo,Corte Militar,15.75
+Cecília Fonseca,13:18,2025-03-24,Luan,Corte Militar,15.75
+Cecília Fonseca,,,Cliente Desconhecido,Corte Militar,15.75
+Cecília Fonseca,,,Cliente Desconhecido,Corte,22.0
+Cecília Fonseca,,,Cliente Desconhecido,Corte + Barba,40.0
+Cecília Fonseca,,,Cliente Desconhecido,Corte Militar,15.75
+Cecília Fonseca,,,Cliente Desconhecido,Corte Militar,15.75
+Cecília Fonseca,,,Cliente Desconhecido,"Barba     , Co",
+Cecília Fonseca,,,Cliente Desconhecido,"Corte   , Sob",
