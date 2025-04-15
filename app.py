@@ -7,28 +7,6 @@ import base64
 # Configuração da página
 st.set_page_config(page_title="Bigodario Dashboard", layout="wide")
 
-# LOGIN SIMPLES
-usuarios = {
-    "admin": "Flamengo",
-    "marcos": "Bigodario"
-}
-if "autenticado" not in st.session_state:
-    st.session_state.autenticado = False
-    st.session_state.usuario = ""
-
-if not st.session_state.autenticado:
-    st.title("🔐 Login - Dashboard Barbearia")
-    usuario = st.text_input("Usuário")
-    senha = st.text_input("Senha", type="password")
-    if st.button("Entrar"):
-        if usuario in usuarios and senha == usuarios[usuario]:
-            st.session_state.autenticado = True
-            st.session_state.usuario = usuario
-            st.rerun()
-        else:
-            st.error("Usuário ou senha incorretos.")
-    st.stop()
-
 # Abrir e converter a imagem em base64
 def mostrar_logo(path, largura=200):
     with open(path, "rb") as img_file:
